@@ -1,0 +1,10 @@
+Second Channel
+https://www.youtube.com/watch?v=vbibl_RoDSw
+Duration: 1.1 min
+Source: Whisper large-v3-turbo (local, no YouTube captions available), language hi
+
+[00:00:00] झाल झाल
+
+[00:00:30] झाल झाल
+
+[00:01:00] झाल झाल
