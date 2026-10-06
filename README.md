@@ -21,7 +21,7 @@ Point-wise study notes are being written video by video. One sample is live so t
 format can be reviewed before the rest are produced:
 
 - [Ahankar ka Gorakh Dhandha](https://codersacademy006.github.io/astro-notes/notes/ahankar-ka-gorakh-dhandha.html)
-  (timestamped sections, diagrams, tables, and a note wherever the speaker gives his own opinion)
+  (complete notes that follow the whole talk in order, with every story, example and question kept, in headings, lists and tables, and a note wherever the speaker gives his own opinion)
 
 ## Transcript format
 
