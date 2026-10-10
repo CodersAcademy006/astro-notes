@@ -1,0 +1,26 @@
+{
+ "vid": "i3Cnfjm5y2Y",
+ "title": "Planet Pluto and its Remedies",
+ "len": "141",
+ "sub": "Complete notes on Jyotish Vidya Ep. 21 by Brajesh Gautam, The Anchor Of Life. Pluto as Yamraj, letting go, Pluto by sign and house, thread and charity remedies, conjunctions and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 21, Planet Pluto and its Remedies by Brajesh Gautam: letting go, Pluto by sign and house, folk remedies, conjunctions and video timestamps.",
+ "sections_dir": "ep21_sections",
+ "diagrams_module": "ep21_diagrams.py",
+ "out": "../docs/notes/pluto-and-remedies-jyotish-vidya-ep21.html",
+ "points": [
+  ["Pluto is Yamraj, the god of Dharma and death.", "He takes old forms so new ones can come: a house, a job, a body. The fix is a guru and not panicking."],
+  ["Let go in one jerk.", "Crying over one thing for years gives Pluto your whole hold. Drop a habit all at once and it settles."],
+  ["Pluto is cold and traps water.", "It traps the Moon, the mind. Wherever the mind is stuck, that area of life goes cold."],
+  ["Serve animals with tails.", "Cow, dog, fish, buffalo, pigeon and crow. Ketu covers death like a cloud."],
+  ["Remedies are by sign and house.", "Threads, charity by house number, gulkand in open ground, and a few folk tricks."],
+  ["Some remedies are not safe.", "Buying a child, false death news and looking at someone without consent are noted only as said, and are not endorsed."],
+  ["Predictions are his own.", "Health, money, politics and sexuality remarks are his opinion. See a doctor and use lawful channels."]
+ ],
+ "puts": [
+  ["<div class=\"three\">\n<div class=\"card prob\"><h4>Two worries</h4>", "letgo"],
+  ["<div class=\"box\">\n<ul>\n<li><b>Pluto's place.</b>", "cycles"],
+  ["<div class=\"tablewrap\"><table>\n<tr><th>Pluto in sign</th><th>Planet of the sign</th>", "signs"],
+  ["<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>Pluto in sign 5 or other bad placements", "tail"],
+  ["<div class=\"tablewrap\"><table>\n<tr><th>Situation</th>", "threads"]
+ ]
+}
