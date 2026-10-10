@@ -1,0 +1,66 @@
+{
+ "vid": "6vRbKSgGRhw",
+ "title": "Jupiter and Remedies",
+ "len": "144",
+ "sub": "Complete notes on Jyotish Vidya Ep. 32 by Brajesh Gautam, The Anchor Of Life. Jupiter in every house, retrograde and combust Jupiter, combinations with each planet, threads, stones, giving and a case study.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 32, Planet Jupiter and Remedies by Brajesh Gautam: Jupiter by house, combinations, retrograde, threads, topaz cautions, what to give and Q&A, with video timestamps.",
+ "sections_dir": "ep32_sections",
+ "diagrams_module": "ep32_diagrams.py",
+ "out": "../docs/notes/jupiter-and-remedies-jyotish-vidya-ep32.html",
+ "points": [
+  [
+   "Jupiter keeps Rahu and Ketu sane.",
+   "Rahu high spoils Jupiter and then Ketu. Fix Rahu and Jupiter sets right."
+  ],
+  [
+   "Ego alone destroys Jupiter.",
+   "A guru who says 'I will do it' is worth leaving, he says."
+  ],
+  [
+   "Jupiter by house.",
+   "From army chief in the 1st to the unknown giver in the 12th, with what each placement does."
+  ],
+  [
+   "Retrograde needs a correction.",
+   "A topaz, light or dark by the signs it aspects, or a Pitambari when topaz does not suit."
+  ],
+  [
+   "Combinations have their own fixes.",
+   "Gold in green paper, iron piece, silver vessel, inner silence for Rahu."
+  ],
+  [
+   "Check the sign before any remedy.",
+   "Signs 10 and 11 and the 6th, 8th and 12th make many remedies backfire."
+  ],
+  [
+   "Threads and colours.",
+   "Yellow thread for Rahu on the right wrist, red thread or tattoo for Mars, avoid red and black for studies."
+  ],
+  [
+   "Give to an unknown person.",
+   "Not to the maid, and never with a taunt, or the fruit is lost."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>The seesaw",
+   "seesaw"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>No.</th>",
+   "houses"
+  ],
+  [
+   "<div class=\"box\">\n<h3>The kinds of guru",
+   "guru"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Fight</h4>",
+   "thread"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Place</th>",
+   "check"
+  ]
+ ]
+}
