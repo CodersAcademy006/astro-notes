@@ -1,0 +1,66 @@
+{
+ "vid": "roJLcMeu4LY",
+ "title": "Moon and Remedies",
+ "len": "138",
+ "sub": "Complete notes on Jyotish Vidya Ep. 23 by Brajesh Gautam, The Anchor Of Life. The Moon in sign 4 with each planet, what a bad Moon spoils, pearl rules, rites through the year, name signs, allergies, threads and tattoos.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 23, Planet Moon and Remedies by Brajesh Gautam: the Moon with each planet, pearl rules, festivals and fasts, name signs, allergies, threads and Q&A, with video timestamps.",
+ "sections_dir": "ep23_sections",
+ "diagrams_module": "ep23_diagrams.py",
+ "out": "../docs/notes/moon-and-remedies-jyotish-vidya-ep23.html",
+ "points": [
+  [
+   "Ketu in sign 4 is a cloud.",
+   "It hides the Moon water. Serve dogs, cows, crows, guests and saints."
+  ],
+  [
+   "A bad Moon drags other planets down.",
+   "Anger inside, not speaking, ego, no joy, contempt and greed each hit a planet."
+  ],
+  [
+   "Pearl rules depend on sign 4.",
+   "Little finger, silver, Monday, growing Moon, but not if the 4th sign sits in 6, 8 or 12."
+  ],
+  [
+   "The year is built around the Moon.",
+   "Navratri fasts, Shravan water, Ashwin tarpan and Karwa Chauth, as he explains them."
+  ],
+  [
+   "Name signs matter.",
+   "He says the first letter of the name activates a sign, so change it when the chart does not suit."
+  ],
+  [
+   "Allergies, joints and mood.",
+   "Allergy tests, homeopathy, yoga, no white after sunset, and a rant every 2.5 days."
+  ],
+  [
+   "Threads and tattoos.",
+   "Red thread for Moon in 1, yellow on the left foot for 4, 5, 7, no orange, no black."
+  ],
+  [
+   "Conjunctions.",
+   "The Moon with Sun, Jupiter, Mars, Venus, Ketu, Rahu, Mercury and Saturn each get a line."
+  ]
+ ],
+ "puts": [
+  [
+   "<li><b>Ketu is a cloud.</b>",
+   "cloud"
+  ],
+  [
+   "<li>Fullness (poornata) is a feeling.",
+   "chain"
+  ],
+  [
+   "<li><b>Q: Moon is placed in the 6th, 8th or 12th",
+   "pearl"
+  ],
+  [
+   "<li>The speaker explains the 12 months",
+   "year"
+  ],
+  [
+   "<li><b>Example: Moon in sign 1</b>",
+   "thread"
+  ]
+ ]
+}
