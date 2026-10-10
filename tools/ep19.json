@@ -1,0 +1,62 @@
+{
+ "vid": "kTQdFqMyTh4",
+ "title": "Venus and Its Remedies",
+ "len": "149",
+ "sub": "Complete notes on Jyotish Vidya Ep. 19 by Brajesh Gautam, The Anchor Of Life. Venus in every sign, with other planets, body, home, marriage, stones and remedies.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 19, Planet Venus Remedies by Brajesh Gautam: Venus by sign, with other planets, the body, marriage, white topaz and remedies, with video timestamps.",
+ "sections_dir": "ep19_sections",
+ "diagrams_module": "ep19_diagrams.py",
+ "out": "../docs/notes/venus-and-remedies-jyotish-vidya-ep19.html",
+ "points": [
+  [
+   "Venus has one eye.",
+   "It sees one thing, never judges, and runs slow and backwards. It also revives what is dead."
+  ],
+  [
+   "Venus in sign 12 or 2 is strong.",
+   "Signs 3, 4, 5 and 6 are the problem signs. Ketu is the helper that makes a bad Venus safe."
+  ],
+  [
+   "Venus rules desire and the dhatus.",
+   "Semen, menstrual fluid, hormones, heart, skin, beauty, food and brands."
+  ],
+  [
+   "Venus can hurt every other planet.",
+   "Each one has a plain behavioural fix, from bowing to fire to feeding workers fresh food."
+  ],
+  [
+   "Serve the cow, keep a dog.",
+   "These are the two universal remedies. White topaz is the main stone."
+  ],
+  [
+   "Do not share underwear or shoes.",
+   "Varuna and Saturn are upset by it."
+  ],
+  [
+   "Think protection, not begging.",
+   "Helmet, insurance, a good doctor and a good guide."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"box\">\n<h4>Test for an afflicted Venus",
+   "oneeye"
+  ],
+  [
+   "<h3>Venus in sign 6 and the marriage pattern",
+   "signs"
+  ],
+  [
+   "<h3>Same-sex attraction and affairs",
+   "chain"
+  ],
+  [
+   "<div class=\"story\">\n<p><b>Note on Venus control.",
+   "fix"
+  ],
+  [
+   "<h3>Shade of the white topaz",
+   "topaz"
+  ]
+ ]
+}

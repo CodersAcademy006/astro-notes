@@ -19,6 +19,8 @@ Live notes: https://codersacademy006.github.io/astro-notes/
 
 Point-wise study notes are being written video by video. Live so far:
 
+- [Venus and Its Remedies, Jyotish Vidya Ep. 19](https://codersacademy006.github.io/astro-notes/notes/venus-and-remedies-jyotish-vidya-ep19.html)
+  (full 149 minute talk: Venus by sign, with other planets, body, marriage, white topaz, remedies, with video timestamps)
 - [Ketu and Its Remedies, Jyotish Vidya Ep. 30](https://codersacademy006.github.io/astro-notes/notes/ketu-and-remedies-jyotish-vidya-ep30.html)
   (full 143 minute talk: Ketu symbols, signs and houses, elements, cat's eye, piercing, vastu, remedies, with video timestamps)
 - [Rahu and Its Remedies, Jyotish Vidya Ep. 27](https://codersacademy006.github.io/astro-notes/notes/rahu-and-remedies-jyotish-vidya-ep27.html)
