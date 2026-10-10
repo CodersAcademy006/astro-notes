@@ -1,0 +1,26 @@
+{
+ "vid": "dyQU35k25gc",
+ "title": "Planet Sun and its Combinations",
+ "len": "137",
+ "sub": "Complete notes on Jyotish Vidya Ep. 16 by Brajesh Gautam, The Anchor Of Life. The Sun as self-respect: houses, combustion degrees, combinations with each planet, a case study and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 16, Planet Sun and its Combinations by Brajesh Gautam: Sun in houses, combustion, Sun with each planet, remedies and Q&A, with video timestamps.",
+ "sections_dir": "ep16_sections",
+ "diagrams_module": "ep16_diagrams.py",
+ "out": "../docs/notes/sun-combinations-jyotish-vidya-ep16.html",
+ "points": [
+  ["The Sun is self-respect.", "Ask big, do not beg. A broken Sun hits Venus first."],
+  ["Houses and degrees.", "Sun in each house, and how close a planet must be to burn."],
+  ["Free give and take spoils the Sun.", "Gifts given in joy are fine."],
+  ["Sun with Neptune and Pluto.", "A yearly month of trouble in his reading. Salt and cursing yourself are warned against."],
+  ["Sun with Saturn.", "Father and son clash unless Mercury sits between."],
+  ["Sun, Mercury, Venus, and four-planet yoga.", "Household effects, recorded as his claims."],
+  ["Case study and Q&A.", "Neighbour lagnas, birth time, stones, ego and new normal."]
+ ],
+ "puts": [
+  ["<h3>Ask big, as servant or master", "ask"],
+  ["<h3>Salt, as he gives it", "year"],
+  ["<h3>Sun with Saturn: father and son", "merc"],
+  ["<h3>The dog and Yama", "dog"],
+  ["<h3>Four planets with the Sun: pravrajya yoga", "prav"]
+ ]
+}
