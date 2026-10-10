@@ -24,6 +24,8 @@ Point-wise study notes are being written video by video. Live so far:
 - [Sun and Remedies, Jyotish Vidya Ep. 15](https://codersacademy006.github.io/astro-notes/notes/sun-and-remedies-jyotish-vidya-ep15.html)
 - [Planet Mars (Jyotish Vidya Ep. 13)](https://codersacademy006.github.io/astro-notes/notes/mars-jyotish-vidya-ep13.html)
 - [Sun and its Combinations (Jyotish Vidya Ep. 16)](https://codersacademy006.github.io/astro-notes/notes/sun-combinations-jyotish-vidya-ep16.html)
+- [Planet Jupiter and Remedies (Jyotish Vidya Ep. 32)](https://codersacademy006.github.io/astro-notes/notes/jupiter-and-remedies-jyotish-vidya-ep32.html)
+- [Planet Moon and Remedies (Jyotish Vidya Ep. 23)](https://codersacademy006.github.io/astro-notes/notes/moon-and-remedies-jyotish-vidya-ep23.html)
 - [Bhaav And Planets (Jyotish Vidya Ep. 7)](https://codersacademy006.github.io/astro-notes/notes/bhaav-and-planets-jyotish-vidya-ep7.html)
 - [Planet Saturn (Jyotish Vidya Ep. 12)](https://codersacademy006.github.io/astro-notes/notes/saturn-and-remedies-jyotish-vidya-ep12.html)
 - [Planet Uranus, Indra (Jyotish Vidya Ep. 17)](https://codersacademy006.github.io/astro-notes/notes/uranus-jyotish-vidya-ep17.html)
