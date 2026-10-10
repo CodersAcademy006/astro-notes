@@ -32,6 +32,8 @@ Point-wise study notes are being written video by video. Live so far:
 - [Planet Ketu (Jyotish Vidya Ep. 29)](https://codersacademy006.github.io/astro-notes/notes/ketu-jyotish-vidya-ep29.html)
 - [Neptune and Remedies (Jyotish Vidya Ep. 25)](https://codersacademy006.github.io/astro-notes/notes/neptune-and-remedies-jyotish-vidya-ep25.html)
 - [Bhaav And Planets (Jyotish Vidya Ep. 7)](https://codersacademy006.github.io/astro-notes/notes/bhaav-and-planets-jyotish-vidya-ep7.html)
+- [Donation and Charity (Jyotish Vidya Ep. 9)](https://codersacademy006.github.io/astro-notes/notes/donation-and-charity-jyotish-vidya-ep9.html)
+- [Love and Marriage (Jyotish Vidya Ep. 10)](https://codersacademy006.github.io/astro-notes/notes/love-and-marriage-jyotish-vidya-ep10.html)
 - [Planet Saturn (Jyotish Vidya Ep. 12)](https://codersacademy006.github.io/astro-notes/notes/saturn-and-remedies-jyotish-vidya-ep12.html)
 - [Planet Uranus, Indra (Jyotish Vidya Ep. 17)](https://codersacademy006.github.io/astro-notes/notes/uranus-jyotish-vidya-ep17.html)
 - [Planet Pluto and its Remedies (Jyotish Vidya Ep. 21)](https://codersacademy006.github.io/astro-notes/notes/pluto-and-remedies-jyotish-vidya-ep21.html)
