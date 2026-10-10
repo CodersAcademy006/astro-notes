@@ -1,0 +1,62 @@
+{
+ "vid": "0v-ysamsqQY",
+ "title": "Rahu, Grace and Witness Mind",
+ "len": "135",
+ "sub": "Complete notes on Jyotish Vidya Ep. 26 by Brajesh Gautam, The Anchor Of Life. Why Rahu beats us, the eclipse, the churning story, Rahu Kaal, witness mind, Rahu in houses 1 to 6, vastu and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 26, Planet Rahu by Brajesh Gautam: Sun, Saturn and the shadow, eclipse, the churning, Rahu Kaal, houses 1 to 6, ancestors, Q&A, with video timestamps.",
+ "sections_dir": "ep26_sections",
+ "diagrams_module": "ep26_diagrams.py",
+ "out": "../docs/notes/rahu-jyotish-vidya-ep26.html",
+ "points": [
+  [
+   "Rahu is Saturn's agent.",
+   "Joy makes us forget God, so Rahu beats us until we remember. Repent quickly, then stop repenting."
+  ],
+  [
+   "The eclipse is the model.",
+   "The Moon covers the Sun for 18 years of Rahu: no clarity, doubt, a jammed head."
+  ],
+  [
+   "The poison comes first.",
+   "In any churn abuse comes out first. Do not hurl it or hold it. Give it to a listener and the cosmos."
+  ],
+  [
+   "Hold the Moon.",
+   "The Moon is the umbrella that lets the nectar pass. Serve your mother, offer water to Shiva if the chart allows."
+  ],
+  [
+   "Rahu is witness mind.",
+   "Knowing what runs in your head is the seer's stance. False beliefs and hypnosis are also Rahu."
+  ],
+  [
+   "The south-west is Rahu's zone.",
+   "Keep ancestors' photos there, keep it clean, no gate."
+  ],
+  [
+   "Many remedies are folk.",
+   "Jail roti, loans and liquor offerings are his own views and are not endorsed here."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>Dasha lengths as he lists them",
+   "chain"
+  ],
+  [
+   "<h3>The poison comes first",
+   "churn"
+  ],
+  [
+   "<h3>Why Shiva wears the Moon",
+   "umbrella"
+  ],
+  [
+   "<h3>The snake diagram",
+   "snake"
+  ],
+  [
+   "<p class=\"sub2\">The remedies and practices",
+   "start"
+  ]
+ ]
+}
