@@ -1,0 +1,26 @@
+{
+ "vid": "yY8DGoGQSTY",
+ "title": "Bhaav And Planets",
+ "len": "155",
+ "sub": "Complete notes on Jyotish Vidya Ep. 7 by Brajesh Gautam, The Anchor Of Life. The 12 houses as a body, what each one holds, remedies by house, and the question and answer round.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 7, Bhaav And Planets by Brajesh Gautam: the 12 houses, body map, relationships, ancestors, donations and Q&A, with video timestamps.",
+ "sections_dir": "ep7_sections",
+ "diagrams_module": "ep7_diagrams.py",
+ "out": "../docs/notes/bhaav-and-planets-jyotish-vidya-ep7.html",
+ "points": [
+  ["Three brains.", "Conscious, subconscious and unconscious. Train the top layer by repetition and you change yourself, not your fate."],
+  ["You rise to a written level.", "Luck lifts you about as far as you were set to go. Awareness decides how well you use it."],
+  ["The 12 houses are fixed.", "Signs and planets move through them, but the first house is always you and the seventh always the partner."],
+  ["Pain points to a house.", "The speaker maps body parts to houses. These are his readings and a doctor comes first."],
+  ["Jupiter and Venus must cooperate.", "Guru and partner, grace and desire. The Sanjeevani story is his picture of it."],
+  ["Ancestors before God.", "If the fifth house is disturbed, settle the ancestors first, with love for children and rites."],
+  ["Give by the planet.", "Cash can backfire if the sign is Mercury. Service and items fit more charts."]
+ ],
+ "puts": [
+  ["<div class=\"tablewrap\"><table>\n<tr><th>Layer</th>", "brains"],
+  ["<div class=\"box\">\n<h4>The fortune story", "ladder"],
+  ["<div class=\"box\">\n<h4>Worked examples", "body"],
+  ["<h3>The story of Sanjeevani", "sanj"],
+  ["<h3>Donating at a temple or gurdwara", "donate"]
+ ]
+}
