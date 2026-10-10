@@ -1,0 +1,66 @@
+{
+ "vid": "9enBGRtv1h8",
+ "title": "Planet Jupiter",
+ "len": "124",
+ "sub": "Complete notes on Jyotish Vidya Ep. 31 by Brajesh Gautam, The Anchor Of Life. Jupiter as guru and decision maker, the gut, the home temple, north-east, the peepal, aspects, sign 9 and when a topaz is not worn.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 31, Planet Jupiter by Brajesh Gautam: the guru, ego and greed, the belly, home temple and north-east rules, aspects, topaz cautions and Q&A, with video timestamps.",
+ "sections_dir": "ep31_sections",
+ "diagrams_module": "ep31_diagrams.py",
+ "out": "../docs/notes/jupiter-jyotish-vidya-ep31.html",
+ "points": [
+  [
+   "Jupiter is the guru and the decision maker.",
+   "The one who gives without wanting anything back, and the one who finally settles your matters."
+  ],
+  [
+   "No guru, no rescue.",
+   "The cow with a guru came out of the marsh. The lion with ego died in it."
+  ],
+  [
+   "Ego and greed die.",
+   "Boasting and greed before a purchase spoil Jupiter, he says. Never take free goods."
+  ],
+  [
+   "The belly is Jupiter's seat.",
+   "Gas, sour belching and a heavy head show a disturbed Jupiter in his teaching. Settle the belly first."
+  ],
+  [
+   "North-east is Jupiter's place at home.",
+   "Keep it empty, clean and fragrant. No storage, kitchen, toilet, red or yellow."
+  ],
+  [
+   "He advises against a home temple.",
+   "Drains are Rahu and press Jupiter. Bells, metal idols and silver lamps are named."
+  ],
+  [
+   "Jupiter always gives, but on his terms.",
+   "Aspects fall on the 5th and 9th. Where he sits he lets no one else run."
+  ],
+  [
+   "Check before any topaz.",
+   "Sign 9 is his home. Signs 10 and 11 in the wrong houses make a topaz unsuitable, per the speaker."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>People who end up alone",
+   "cow"
+  ],
+  [
+   "<ul>\n<li>When Jupiter works right",
+   "belly"
+  ],
+  [
+   "<ul>\n<li>If Jupiter looks at Venus",
+   "ne"
+  ],
+  [
+   "<ul>\n<li>When he takes his magnet in hold",
+   "aspect"
+  ],
+  [
+   "<ul>\n<li>His example: a small accident",
+   "topaz"
+  ]
+ ]
+}
