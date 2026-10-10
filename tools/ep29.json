@@ -1,0 +1,62 @@
+{
+ "vid": "HnLDAwplgpU",
+ "title": "Ketu, Karma and Blessings",
+ "len": "139",
+ "sub": "Complete notes on Jyotish Vidya Ep. 29 by Brajesh Gautam, The Anchor Of Life. Ketu as body and cloud, the karma account, curses and blessings, Ganesha, Ketu in houses 1 to 12 and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 29, Planet Ketu by Brajesh Gautam: karma account, the cloud, the water centre, Ganesha, Ketu by house, Q&A, with video timestamps.",
+ "sections_dir": "ep29_sections",
+ "diagrams_module": "ep29_diagrams.py",
+ "out": "../docs/notes/ketu-jyotish-vidya-ep29.html",
+ "points": [
+  [
+   "Ketu is the body.",
+   "It has hands and feet but no head. It acts as the head fitted on it: Jupiter, Venus, Neptune and so on."
+  ],
+  [
+   "Everything is recorded.",
+   "Curses and blessings pile up. Ketu delivers the fruit. Earn blessings and stop cursing yourself and others."
+  ],
+  [
+   "Many people asking for you.",
+   "A person who has hundreds praying for him needs no begging. Serve people."
+  ],
+  [
+   "Ketu expands.",
+   "It is a cloud that enlarges what it touches. The west-south-west of the home is its zone."
+  ],
+  [
+   "Giving quietly brings blind money.",
+   "In each house, giving in that area brings money back. Do not boast."
+  ],
+  [
+   "Keep Rahu and Ketu level.",
+   "Enjoy and let go. Ego must be left with God or a guru."
+  ],
+  [
+   "Some claims are strong.",
+   "Fertility, birth defects, gold plating and other health claims are his own and not endorsed."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>The blocking cloud",
+   "account"
+  ],
+  [
+   "<h3>Whose head is on the body",
+   "heads"
+  ],
+  [
+   "<h3>Ketu with each planet",
+   "cloud"
+  ],
+  [
+   "<h3>The seesaw",
+   "seesaw"
+  ],
+  [
+   "<p class=\"sub2\">The practical advice",
+   "start"
+  ]
+ ]
+}
