@@ -19,6 +19,8 @@ Live notes: https://codersacademy006.github.io/astro-notes/
 
 Point-wise study notes are being written video by video. Live so far:
 
+- [Ketu and Its Remedies, Jyotish Vidya Ep. 30](https://codersacademy006.github.io/astro-notes/notes/ketu-and-remedies-jyotish-vidya-ep30.html)
+  (full 143 minute talk: Ketu symbols, signs and houses, elements, cat's eye, piercing, vastu, remedies, with video timestamps)
 - [Rahu and Its Remedies, Jyotish Vidya Ep. 27](https://codersacademy006.github.io/astro-notes/notes/rahu-and-remedies-jyotish-vidya-ep27.html)
   (full 144 minute talk: Rahu in houses 7 to 12 and with each planet, problems, causes, remedies, and video timestamps)
 - [Ahankar ka Gorakh Dhandha](https://codersacademy006.github.io/astro-notes/notes/ahankar-ka-gorakh-dhandha.html)
