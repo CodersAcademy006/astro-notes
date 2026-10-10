@@ -19,6 +19,8 @@ Live notes: https://codersacademy006.github.io/astro-notes/
 
 Point-wise study notes are being written video by video. Live so far:
 
+- [Rahu, Ketu and Balance, Jyotish Vidya Ep. 28](https://codersacademy006.github.io/astro-notes/notes/rahu-and-ketu-jyotish-vidya-ep28.html)
+  (full 151 minute talk: Rahu and Ketu as a pair, the seesaw, self-checks, home vastu, Ketu by house, Q&A, with video timestamps)
 - [Venus and Its Remedies, Jyotish Vidya Ep. 19](https://codersacademy006.github.io/astro-notes/notes/venus-and-remedies-jyotish-vidya-ep19.html)
   (full 149 minute talk: Venus by sign, with other planets, body, marriage, white topaz, remedies, with video timestamps)
 - [Ketu and Its Remedies, Jyotish Vidya Ep. 30](https://codersacademy006.github.io/astro-notes/notes/ketu-and-remedies-jyotish-vidya-ep30.html)

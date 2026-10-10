@@ -1,0 +1,62 @@
+{
+ "vid": "Bdwi1wfpBhg",
+ "title": "Rahu, Ketu and Balance",
+ "len": "151",
+ "sub": "Complete notes on Jyotish Vidya Ep. 28 by Brajesh Gautam, The Anchor Of Life. Rahu and Ketu as one pair, the seesaw, self-checks, home vastu, Ketu in every house and remedies.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 28, Planet Rahu and Ketu by Brajesh Gautam: balancing the pair, remedies, home checks, Ketu by house and Q&A, with video timestamps.",
+ "sections_dir": "ep28_sections",
+ "diagrams_module": "ep28_diagrams.py",
+ "out": "../docs/notes/rahu-and-ketu-jyotish-vidya-ep28.html",
+ "points": [
+  [
+   "Rahu and Ketu are one pair.",
+   "Head and body, Sun side and Moon side. If one rises, the other falls."
+  ],
+  [
+   "Keep the seesaw level.",
+   "Witness mind steadies Rahu. Service and giving steady Ketu. Too much of either breaks the other."
+  ],
+  [
+   "Ask once.",
+   "A scattered wish does not manifest. Borrow a guru's head if yours is not working."
+  ],
+  [
+   "Each planet has a home sign.",
+   "Fix the sign first, then the planet. Stones come second."
+  ],
+  [
+   "The south-west is Rahu's zone.",
+   "Keep it still and clean, cover the drains, repair broken things."
+  ],
+  [
+   "Ketu by house.",
+   "From the worst in the 3rd to a rocket in the 12th, with what each one does to money, marriage and work."
+  ],
+  [
+   "No gold or silver idols at home.",
+   "Clay or wood. Gold is Jupiter and Lakshmi is Venus."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>Rahu: a head with no body",
+   "pair"
+  ],
+  [
+   "<h3>Why 18 and 7 years",
+   "seesaw"
+  ],
+  [
+   "<h3>Relationships as a Rahu-Ketu pair",
+   "flow"
+  ],
+  [
+   "<div class=\"box\">\n<ul>\n<li>A <b>house</b>",
+   "fixed"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Rule</h4>",
+   "signfirst"
+  ]
+ ]
+}
