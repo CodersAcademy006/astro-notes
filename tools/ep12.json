@@ -1,0 +1,26 @@
+{
+ "vid": "_lJoI2gXnEs",
+ "title": "Planet Saturn",
+ "len": "156",
+ "sub": "Complete notes on Jyotish Vidya Ep. 12 by Brajesh Gautam, The Anchor Of Life. Saturn as the lord of luck, darkness and things: what to leave alone, the Saturn stone, serving the blind, sade sati and a worked chart.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 12, Planet Saturn by Brajesh Gautam: luck and the dark areas, remedies, the Saturn stone, sade sati and Q&A, with video timestamps.",
+ "sections_dir": "ep12_sections",
+ "diagrams_module": "ep12_diagrams.py",
+ "out": "../docs/notes/saturn-and-remedies-jyotish-vidya-ep12.html",
+ "points": [
+  ["Saturn is luck and darkness.", "It sits where you cannot see. Poke that area and it turns on you."],
+  ["Hold it back.", "Do not boast, count, announce or keep asking in a Saturn area. Ask once and leave it to a guru."],
+  ["Jupiter commands Saturn.", "A guru in any form sets Saturn. Ego brings Jupiter down on you."],
+  ["Workers and sons are Saturn.", "Do your duty. Do not try to please them or teach them."],
+  ["Serve the blind, give in secret.", "Feed the blind, tula daan, blind donation, a lamp at the peepal."],
+  ["A stone corrects.", "Blue sapphire only after the checks on sign 10 and house 8, and not on one placement."],
+  ["Sade sati depends on the whole chart.", "Rama and Ravana had it together with opposite results."]
+ ],
+ "puts": [
+  ["<h3>The tug of war: Sun, Jupiter, Saturn", "pull"],
+  ["<h3>Worked example: Saturn in the 9th house", "court"],
+  ["<h3>Saturn is the lord of things", "letgo"],
+  ["<h3>Choosing a stone by the sign lord", "stone"],
+  ["<h3>A trained astrologer's boundaries", "sade"]
+ ]
+}
