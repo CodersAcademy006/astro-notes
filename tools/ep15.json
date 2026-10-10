@@ -1,0 +1,62 @@
+{
+ "vid": "o3pzbftytwI",
+ "title": "Sun and Remedies",
+ "len": "143",
+ "sub": "Complete notes on Jyotish Vidya Ep. 15 by Brajesh Gautam, The Anchor Of Life. The Sun as soul and aura, heartbreak and the house result, the Sun by sign and house, remedies, ruby and the water offering.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 15, Planet Sun by Brajesh Gautam: the Sun by sign and house, heart, aura, remedies, ruby and water offerings, with video timestamps.",
+ "sections_dir": "ep15_sections",
+ "diagrams_module": "ep15_diagrams.py",
+ "out": "../docs/notes/sun-and-remedies-jyotish-vidya-ep15.html",
+ "points": [
+  [
+   "The Sun is the soul and the aura.",
+   "A low Sun looks like low morale, weak bones and a face that has lost its glow."
+  ],
+  [
+   "A broken heart breaks the Sun.",
+   "The loss lands on the house where the Sun sits, the same day."
+  ],
+  [
+   "Signs 1 and 8 are best, 2 and 7 worst.",
+   "A small slip in the chalit chart swings the result."
+  ],
+  [
+   "Nobody listens? You are below Jupiter.",
+   "Strengthen the Sun through character, dharma and blessings."
+  ],
+  [
+   "Give to strangers, quietly.",
+   "Do not take free gifts. Do not boast of what you gave."
+  ],
+  [
+   "Wheat, brass, less table salt, a fist of boiled wheat to a cow.",
+   "The small remedies, before any stone."
+  ],
+  [
+   "Ruby is the lasting fix, with care.",
+   "5 to 7 ratti in gold or copper, only after your chart is read."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>\"Not even a dog",
+   "layers"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>A heartbreak",
+   "heart"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Sign</th>",
+   "signs"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>Broken Sun",
+   "serve"
+  ],
+  [
+   "<h3>The ruby (manik)",
+   "ruby"
+  ]
+ ]
+}
