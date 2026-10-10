@@ -1,0 +1,62 @@
+{
+ "vid": "-jRmE6O5W_c",
+ "title": "Neptune (Varuna) and Grace",
+ "len": "141",
+ "sub": "Complete notes on Jyotish Vidya Ep. 24 by Brajesh Gautam, The Anchor Of Life. Neptune as the giver of grace, its sign and house results, forgiveness, the Bokoju story and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 24, Planet Neptune (Varuna) by Brajesh Gautam: grace, intuition, houses 1 to 12, signs, puja, Q&A, with video timestamps.",
+ "sections_dir": "ep24_sections",
+ "diagrams_module": "ep24_diagrams.py",
+ "out": "../docs/notes/neptune-jyotish-vidya-ep24.html",
+ "points": [
+  [
+   "Neptune is the planet of grace.",
+   "The sea gives intuition, treasure and manifestation, and it also takes. Which one you get depends on your inner state."
+  ],
+  [
+   "Where it sits, it is limitless and false.",
+   "That house is vast but unreal: the result is hard to see, so do not chase understanding."
+  ],
+  [
+   "Do not beg, forgive.",
+   "Asking once and letting go works. Grudges bring the lower sea, and forgiving brings the upper."
+  ],
+  [
+   "Sign type matters.",
+   "Movable, fixed and dual signs set how Neptune acts. It stays about 14 years in one sign."
+  ],
+  [
+   "Each house has its own pattern.",
+   "From low self-worth in the 1st to money coming through expenses in the 12th."
+  ],
+  [
+   "Do not pre-live results.",
+   "Rehearsing a wish or a fear cancels it. Think once and drop it."
+  ],
+  [
+   "Remedies come next class.",
+   "Only the aquamarine and a few habits are given here. Most remedies are deferred."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>Varuna, the sea",
+   "sea"
+  ],
+  [
+   "<h3>Puja and begging",
+   "grace"
+  ],
+  [
+   "<h3>Why the lagna type matters",
+   "modes"
+  ],
+  [
+   "<h3>1st house",
+   "houses"
+  ],
+  [
+   "<p class=\"sub2\">The remedy part of Neptune",
+   "start"
+  ]
+ ]
+}
