@@ -1,0 +1,38 @@
+from diagrams import box,arr,lab,fig
+def d_houses():
+    s=box(110,8,200,44,['1st house','"I", you'],'g')+arr(210,52,210,72)
+    s+=box(110,72,200,44,['7th house','the partner, marriage'],'b')
+    s+=arr(110,94,70,128)+arr(210,116,210,128)+arr(310,94,350,128)
+    s+=box(5,128,130,60,['5th house','love, children,','ancestors'],'n')+box(145,128,130,60,['12th house','bed comfort,','sleep'],'n')+box(285,128,130,60,['8th house','partner\'s wealth,','in-laws'],'n')
+    s+=box(30,204,360,52,['Disturbance here, in his view, shows up','as trouble in love, bed or marriage'],'r')
+    return fig(266,s,'The houses he reads for a marriage. His scheme, not a rule.','Houses around the 7th house')
+def d_sorry():
+    s=box(110,8,200,40,['1. I am sorry'],'b')+arr(210,48,210,66)
+    s+=box(110,66,200,40,['2. Please forgive me'],'b')+arr(210,106,210,124)
+    s+=box(110,124,200,40,['3. Thank you'],'g')+arr(210,164,210,182)
+    s+=box(110,182,200,40,['4. I love you'],'g')
+    s+=box(30,238,360,52,['Say it to yourself, in the mind or aloud.','You need not tell the other person.'],'n')
+    return fig(300,s,'The four-line apology routine he teaches. A calming practice, not a treatment.','Flowchart of the apology routine')
+def d_mars():
+    s=box(110,8,200,44,['Mars sits in the 1st, 4th,','7th, 8th or 12th'],'r')+arr(210,52,210,72)
+    s+=box(60,72,300,44,['He calls this the Mangalik fault','Sitting counts, aspect alone does not'],'n')+arr(210,116,210,136)
+    s+=box(30,136,360,44,['He says it ignites only with the fire rounds'],'b')
+    s+=arr(110,180,70,206)+arr(310,180,350,206)
+    s+=box(5,206,200,56,['Skip the fire rounds','(his view)'],'g')+box(215,206,200,56,['Or a pot marriage','for a girl, first'],'g')
+    s+=box(30,278,360,44,['A belief that has harmed women. Do not act on it.'],'r')
+    return fig(332,s,'The Mangalik teaching in outline. His claim, not a fact.','Mangalik fault flowchart')
+def d_ritual():
+    s=box(110,8,200,40,['A planet troubles the 7th'],'r')+arr(210,48,210,66)
+    s+=box(60,66,300,40,['He says: take its toll first','with a ritual marriage'],'b')
+    for x in (70,210,350): s+=arr(210,106,x,134)
+    s+=box(5,134,130,70,['Girl, any fault','Vishnu vivah','(shaligram,','peepal, gold)'],'g')+box(145,134,130,70,['Boy, Sun fault','Arka vivah','(the arka','plant)'],'g')+box(285,134,130,70,['Mars fault','Kumbh vivah','(a clay pot,','then broken)'],'g')
+    s+=box(30,220,360,52,['Then the real marriage is said to be safe.','His tradition; no ritual is advised here.'],'n')
+    return fig(282,s,'The ritual marriages he describes, by case. Presented as taught.','Ritual marriage options')
+def d_saturn():
+    s=box(90,8,240,44,['Saturn sits in or aims at the 7th'],'r')+arr(210,52,210,70)
+    s+=box(60,70,300,56,['Marriage not by your choice,','sudden, chosen matches vanish','affairs begin and end'],'n')+arr(210,126,210,144)
+    s+=box(60,144,300,44,['Stop choosing and chasing'],'b')+arr(210,188,210,206)
+    s+=box(60,206,300,56,['Keep it secret, let elders decide,','a ritual first marriage'],'g')
+    s+=box(30,276,360,44,['His predictions. Not a reason to avoid a partner.'],'r')
+    return fig(330,s,'His remedies for Saturn on the 7th, in outline.','Saturn and the 7th house flowchart')
+D=dict(houses=d_houses(),sorry=d_sorry(),mars=d_mars(),ritual=d_ritual(),saturn=d_saturn())

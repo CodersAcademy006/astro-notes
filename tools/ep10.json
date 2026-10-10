@@ -1,0 +1,62 @@
+{
+ "vid": "0ExHLGr_XpU",
+ "title": "Love and Marriage",
+ "len": "266",
+ "sub": "Complete notes on Jyotish Vidya Ep. 10 (Parts 1 and 2) by Brajesh Gautam, The Anchor Of Life. The 7th house and the planets that act on it, ancestors and apology, ritual marriages, Mangalik, and the question and answer rounds. All views are the speaker's.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 10, Love and Marriage (Parts 1 and 2) by Brajesh Gautam: the 7th house, every planet in marriage, ancestors, remedies and Q&A, with video timestamps.",
+ "sections_dir": "ep10_sections",
+ "diagrams_module": "ep10_diagrams.py",
+ "out": "../docs/notes/love-and-marriage-jyotish-vidya-ep10.html",
+ "points": [
+  [
+   "The 7th house is the partner.",
+   "The 1st is you, the 7th the partner, the 5th love and children, the 12th bed comfort. He reads all of them together."
+  ],
+  [
+   "Take ancestors' grace first.",
+   "He says ancestral scars show up as trouble in love, bed and children. His first step is apology and bowing to elders."
+  ],
+  [
+   "Each planet makes its own trouble.",
+   "Sun gives friction, Moon doubt, Mars the Mangalik fault, Mercury talk, Jupiter failed affairs, Venus and Saturn others. All his readings."
+  ],
+  [
+   "Ritual marriages.",
+   "Vishnu, Arka and Kumbh forms are said to take a planet's toll first. Presented as taught, not recommended."
+  ],
+  [
+   "Do not blame the partner.",
+   "He says to stop blaming and become a receiver. Marriage is a personal choice, not a duty."
+  ],
+  [
+   "Look for a third factor.",
+   "Before fighting, ask what changed: a home zone, a planet, an ancestor."
+  ],
+  [
+   "Views, not facts.",
+   "Every claim on sex, health, fertility and religion is the speaker's and is not endorsed."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>House</th><th>What he ties",
+   "houses"
+  ],
+  [
+   "<div class=\"box\">\n<h4>Four short sentences",
+   "sorry"
+  ],
+  [
+   "<h3>Who is Mangalik",
+   "mars"
+  ],
+  [
+   "<h3>Arka marriage and Vishnu marriage",
+   "ritual"
+  ],
+  [
+   "<h3>Remedies for Saturn",
+   "saturn"
+  ]
+ ]
+}
