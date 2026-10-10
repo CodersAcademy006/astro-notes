@@ -1,0 +1,62 @@
+{
+ "vid": "bUAFllLrJuU",
+ "title": "Mercury and Remedies",
+ "len": "135",
+ "sub": "Complete notes on Jyotish Vidya Ep. 14 by Brajesh Gautam, The Anchor Of Life. Mercury as the child mind, signs and houses, the ear and mantra, emerald, donations, the cash rule and a full remedy sheet.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 14, Planet Mercury by Brajesh Gautam: speech, nerves, thyroid, bad houses, emerald, donations and remedies, with video timestamps.",
+ "sections_dir": "ep14_sections",
+ "diagrams_module": "ep14_diagrams.py",
+ "out": "../docs/notes/mercury-and-remedies-jyotish-vidya-ep14.html",
+ "points": [
+  [
+   "Mercury is the child of the Sun.",
+   "Fickle and copies its company. Jupiter steadies it, Rahu shakes it."
+  ],
+  [
+   "Mercury is the hole, the gate and the ear.",
+   "Throat, nose, ears, speech, nerves and cash are all its ground."
+  ],
+  [
+   "Words in the ear act as orders.",
+   "Whisper calm things to a child and to yourself. Never shout."
+  ],
+  [
+   "Houses 6, 8 and 12 hurt most.",
+   "A 12th-house Mercury is the worst. A nose piercing for 100 hours is the first fix."
+  ],
+  [
+   "Cash is Mercury.",
+   "Give in secret, give goods when Mercury is weak, do not pass cash hand to hand."
+  ],
+  [
+   "Emerald is the lasting fix.",
+   "4 to 6 ratti, no line or crack, and only with your own chart read."
+  ],
+  [
+   "No money for a stone?",
+   "Serve your mother, touch elders' feet, give to the transgender community and cows."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"box\"><ul>\n<li><b>The core claim.",
+   "family"
+  ],
+  [
+   "<ul>\n<li><b>Quiet in silence.",
+   "company"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Say into the ear",
+   "ear"
+  ],
+  [
+   "<h3>Nose-piercing remedy for 12th-house Mercury",
+   "twelfth"
+  ],
+  [
+   "<p>All of these are the speaker",
+   "ladder"
+  ]
+ ]
+}
