@@ -1,0 +1,26 @@
+{
+ "vid": "Iq0FXOTHPW0",
+ "title": "Planet Uranus (Indra)",
+ "len": "118",
+ "sub": "Complete notes on Jyotish Vidya Ep. 17 by Brajesh Gautam, The Anchor Of Life. Uranus as Indra, the navel portal, Uranus by sign, stones, threads, transits and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 17, Planet Uranus (Indra) by Brajesh Gautam: the navel portal, Uranus in each sign, remedies, stones and Q&A, with video timestamps.",
+ "sections_dir": "ep17_sections",
+ "diagrams_module": "ep17_diagrams.py",
+ "out": "../docs/notes/uranus-jyotish-vidya-ep17.html",
+ "points": [
+  ["Indra is a king, not a god.", "The king of heaven who dies. Good karma short of liberation. Protects your heaven and enjoys it."],
+  ["Uranus sits on the navel.", "Signs 1 and 8 share it. Strong navel means no fear, good digestion, good breath, good sleep."],
+  ["Do not spoil Indra.", "Do not call life hell and do not talk double. Say great, no problem."],
+  ["Enjoy with a witness mind.", "The speaker says awareness keeps Rahu and Ketu in your pocket. His health and alcohol remarks are his own."],
+  ["7 years per sign, 84 years in all.", "Long effects. The Moon gives 2.5 days, the Sun a month."],
+  ["Uranus by sign.", "From a wish tree in sign 3 to a storm in sign 7."],
+  ["Remedies are chart-specific.", "Stones, threads, halwa as prasad and a tidy home. Not endorsed."]
+ ],
+ "puts": [
+  ["<h3>How the speaker pictures the outer planets", "system"],
+  ["<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>You keep saying", "spoil"],
+  ["<div class=\"tablewrap\"><table>\n<tr><th></th><th>Sign 1", "navel"],
+  ["<div class=\"tablewrap\"><table>\n<tr><th>Uranus in sign</th>", "signs"],
+  ["<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>You ask the cosmos", "fix"]
+ ]
+}
