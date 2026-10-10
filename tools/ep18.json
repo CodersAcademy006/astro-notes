@@ -1,0 +1,26 @@
+{
+ "vid": "uDMvVbV3_es",
+ "title": "Planet Venus (Shukra)",
+ "len": "139",
+ "sub": "Complete notes on Jyotish Vidya Ep. 18 by Brajesh Gautam, The Anchor Of Life. Shukracharya, Mrit Sanjivani, Venus and Jupiter, the heart, Venus in Pisces, Venus in the houses, remedies and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 18, Planet Venus by Brajesh Gautam: Shukracharya, the heart, exaltation and debilitation, Venus by house, remedies and Q&A, with video timestamps.",
+ "sections_dir": "ep18_sections",
+ "diagrams_module": "ep18_diagrams.py",
+ "out": "../docs/notes/venus-jyotish-vidya-ep18.html",
+ "points": [
+  ["Do not go above 50.", "Do your half in any pair. Above 50 the fierce form comes."],
+  ["Venus revives what is dead.", "Shukracharya's Mrit Sanjivani: a lost business, love or wealth can come back."],
+  ["Venus and Jupiter are the two Brahmin planets.", "Rivals that need balance. Venus orders, Jupiter advises."],
+  ["Venus is heart, enjoyment and attraction.", "The speaker's health links (blood pressure, sugar, cholesterol) are his claims, not medical advice."],
+  ["Exalted in Ketu's sign, debilitated in Rahu's.", "Clouds, elephant and cow, and the Lakshmi picture."],
+  ["Venus by house.", "A broad sketch from the 1st to the 9th, with strong claims marked as his."],
+  ["Remedies are chart-specific.", "Tidy home, no torn clothes or broken glass, cow service, white topaz. Not endorsed."]
+ ],
+ "puts": [
+  ["<div class=\"lead\"><p>The class opens with a rule", "fifty"],
+  ["<h3>The clockwise planet", "jvs"],
+  ["<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>You complain all the time", "bp"],
+  ["<div class=\"three\">\n<div class=\"card why\"><h4>Clouds on Venus", "pisces"],
+  ["<ul>\n<li>Whether you take Venus as the partner", "family"]
+ ]
+}
