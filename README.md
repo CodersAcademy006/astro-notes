@@ -17,9 +17,10 @@ Live notes: https://codersacademy006.github.io/astro-notes/
 
 ## Notes
 
-Point-wise study notes are being written video by video. One sample is live so the
-format can be reviewed before the rest are produced:
+Point-wise study notes are being written video by video. Live so far:
 
+- [Rahu and Its Remedies, Jyotish Vidya Ep. 27](https://codersacademy006.github.io/astro-notes/notes/rahu-and-remedies-jyotish-vidya-ep27.html)
+  (full 144 minute talk: Rahu in houses 7 to 12 and with each planet, problems, causes, remedies, and video timestamps)
 - [Ahankar ka Gorakh Dhandha](https://codersacademy006.github.io/astro-notes/notes/ahankar-ka-gorakh-dhandha.html)
   (complete notes that follow the whole talk in order, with every story, example and question kept, in headings, lists and tables, and a note wherever the speaker gives his own opinion)
 
