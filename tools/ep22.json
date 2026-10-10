@@ -1,0 +1,26 @@
+{
+ "vid": "pejq4X_5Pow",
+ "title": "Planet Moon",
+ "len": "147",
+ "sub": "Complete notes on Jyotish Vidya Ep. 22 by Brajesh Gautam, The Anchor Of Life. The Moon as water, mind and life force, the Moon in each house and sign, Moon with Mercury, fasts, water charging and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 22, Planet Moon by Brajesh Gautam: the water element, the Moon by house and sign, remedies, Q&A and video timestamps.",
+ "sections_dir": "ep22_sections",
+ "diagrams_module": "ep22_diagrams.py",
+ "out": "../docs/notes/moon-jyotish-vidya-ep22.html",
+ "points": [
+  ["The Moon is the water element and the mind.", "About 72 percent of the body is water and 12 percent is mind, which rules the rest. The Moon sets the whole life."],
+  ["Each house has its own water.", "From clay pot water in house 1 to rain water in house 12. The same water is the traditional remedy."],
+  ["Sign 5 and sign 8 hurt the Moon most.", "Canal water for sign 5 and cremation ground water for sign 8, or a pearl once sign 4 is safe."],
+  ["Moon and Mercury are at war.", "Sandy water in glass, green things as charity and no arguing, for a girl with this pair."],
+  ["Manifestation takes up to 72 hours.", "Chasing a wish brings waves into the water, so the wish comes out wrong."],
+  ["Calm the mind by feeling, not by force.", "The third eye is a filter. Witness mind lets a thought pass."],
+  ["Health claims are his own.", "Diet, homeopathy and cancer remarks in the class are the speaker's opinion. See a doctor."]
+ ],
+ "puts": [
+  ["<h3>Yes or no in the mind: the cell war", "split"],
+  ["<div class=\"tablewrap\"><table>\n<tr><th>House</th>", "grid"],
+  ["<div class=\"three\">\n<div class=\"card prob\"><h4>Saturn with Moon", "filter"],
+  ["<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>A girl with the Moon and Mercury", "tara"],
+  ["<div class=\"box\">\n<h4>His water-charging exercise", "charge"]
+ ]
+}
