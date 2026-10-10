@@ -1,0 +1,62 @@
+{
+ "vid": "8tYfFGmqQHg",
+ "title": "Donation and Charity",
+ "len": "288",
+ "sub": "Complete notes on Jyotish Vidya Ep. 9 (Parts 1 and 2) by Brajesh Gautam, The Anchor Of Life. Giving by the sign in the 9th, 5th and 2nd houses, secret giving, exam-day remedies and the question and answer rounds.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 9, Donation and Charity (Parts 1 and 2) by Brajesh Gautam: what to give by sign, where to give, the 5th house and schools, exam remedies and Q&A, with video timestamps.",
+ "sections_dir": "ep9_sections",
+ "diagrams_module": "ep9_diagrams.py",
+ "out": "../docs/notes/donation-and-charity-jyotish-vidya-ep9.html",
+ "points": [
+  [
+   "Fate is fixed, grace is not.",
+   "The speaker says the chart does not change, but grace changes how it plays out, and giving is one way to take grace."
+  ],
+  [
+   "Give by the sign.",
+   "What to give at a temple, school or cash box depends on the sign in the matching house. A friend planet's item helps, an enemy's can hurt."
+  ],
+  [
+   "Wrong giving harms.",
+   "A gift that belongs to a planet unfriendly to your sign can make matters worse, so do not give blindly."
+  ],
+  [
+   "Secret giving.",
+   "Giving quietly and without regret is said to lift the 8th house."
+  ],
+  [
+   "The 5th house is grace.",
+   "If temple prayer fails, he says take the ancestors' grace first, and give at schools and to children."
+  ],
+  [
+   "Exam day remedies.",
+   "Colours, pocket items, threads and food are matched to the signs on the study houses. These are his beliefs."
+  ],
+  [
+   "Come as a beggar.",
+   "The wish to receive is what makes one fit to be given to, he says."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>Which place gets which gift",
+   "places"
+  ],
+  [
+   "<div class=\"box\">\n<h4>The house photo trick",
+   "photo"
+  ],
+  [
+   "<h3>Four kinds of people",
+   "four"
+  ],
+  [
+   "<h3>Why secret giving works",
+   "secret"
+  ],
+  [
+   "<h3>Exam day cases",
+   "exam"
+  ]
+ ]
+}
