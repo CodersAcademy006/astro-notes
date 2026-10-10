@@ -1,0 +1,62 @@
+{
+ "vid": "TZ26b_S2MPs",
+ "title": "Planet Neptune and Remedies",
+ "len": "147",
+ "sub": "Complete notes on Jyotish Vidya Ep. 25 by Brajesh Gautam, The Anchor Of Life. Neptune (Varuna) in sign 7, in each sign, with each planet, thread colours, the west of the home and a live chart.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 25, Planet Neptune and Remedies by Brajesh Gautam: Neptune by sign and conjunction, thread remedies, the west direction, Q&A and video timestamps.",
+ "sections_dir": "ep25_sections",
+ "diagrams_module": "ep25_diagrams.py",
+ "out": "../docs/notes/neptune-and-remedies-jyotish-vidya-ep25.html",
+ "points": [
+  [
+   "Neptune is the sea of never enough.",
+   "Unlimited money, love, drink and illusion. In his own sign, it works as boundless grace or boundless chaos."
+  ],
+  [
+   "Each planet in sign 7 gets a sea reading.",
+   "Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu, Ketu, Indra and Pluto, each with a result and a caution."
+  ],
+  [
+   "Neptune has no dasha.",
+   "Its effect is subtle and constant, and the stone given is blue aquamarine."
+  ],
+  [
+   "Element decides the result.",
+   "Water signs best, earth friendly, fire signs most negative."
+  ],
+  [
+   "Remedies are colour based.",
+   "Light blue, ink blue, purple, red and yellow threads, ink and tattoos, plus buried seawater and tea leaves."
+  ],
+  [
+   "The west of the home is Varuna's.",
+   "No door in W5 or W6, keep it clean, place the ishta image, and leave the wish."
+  ],
+  [
+   "Many claims are his own.",
+   "Drink, bribes, tax evasion, a stolen-from-home remark, and health comments are flagged and not endorsed."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Rahu in sign 7</h4>",
+   "sea"
+  ],
+  [
+   "<ul>\n<li>There are four elements",
+   "elem"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Neptune with</th>",
+   "conj"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Mercury in 12 or 6</h4>",
+   "thread"
+  ],
+  [
+   "<ul>\n<li>Lucky guesses",
+   "west"
+  ]
+ ]
+}
