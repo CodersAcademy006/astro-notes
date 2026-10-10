@@ -1,0 +1,54 @@
+{
+ "vid": "lCfAGZVI7OI",
+ "title": "Planet Pluto (Yama)",
+ "len": "136",
+ "sub": "Complete notes on Jyotish Vidya Ep. 20 by Brajesh Gautam, The Anchor Of Life. Pluto as Yamraj, feet, Saturn, the observer, Pluto in each sign, Q&A and remedies.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 20, Planet Pluto by Brajesh Gautam: Yamraj, the feet, Pluto in signs 1 to 12, remedies and Q&A, with video timestamps.",
+ "sections_dir": "ep20_sections",
+ "diagrams_module": "ep20_diagrams.py",
+ "out": "../docs/notes/pluto-jyotish-vidya-ep20.html",
+ "points": [
+  [
+   "Pluto is Yama.",
+   "Death comes in instalments; the speaker treats it as dharma, not punishment."
+  ],
+  [
+   "The feet belong to Pluto.",
+   "Care for them, press elders' feet, no cracks."
+  ],
+  [
+   "Take Yamraj out of your mind.",
+   "Forgive and let go; the speaker links mind weight to body pain."
+  ],
+  [
+   "Pluto works through the sign.",
+   "Signs 1 to 12, each bends the planet's matter; read with the house."
+  ],
+  [
+   "Strong claims are his.",
+   "Death, health, marriage, war and politics remarks are marked as opinion."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"lead\"><p>The speaker's map: <b>the feet are Pluto's place</b>",
+   "feet"
+  ],
+  [
+   "<h3>Cremation, burial and the soul",
+   "chain"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card why\"><h4>The setup</h4>",
+   "graces"
+  ],
+  [
+   "<div class=\"lead\"><p>The speaker built a small chart",
+   "signs"
+  ],
+  [
+   "<div class=\"box\">\n<ul>\n<li>In many countries children play musical chairs",
+   "balance"
+  ]
+ ]
+}
