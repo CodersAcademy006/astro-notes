@@ -1,0 +1,26 @@
+{
+ "vid": "qCGLzTPuf_8",
+ "title": "Planet Mars",
+ "len": "131",
+ "sub": "Complete notes on Jyotish Vidya Ep. 13 by Brajesh Gautam, The Anchor Of Life. Mars as effort, the navel and friendship: forgiveness, Mangalik, debt, the coral rules, will power and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 13, Planet Mars by Brajesh Gautam: purushartha, the navel, friendship, Mangalik, debt, remedies and Q&A, with video timestamps.",
+ "sections_dir": "ep13_sections",
+ "diagrams_module": "ep13_diagrams.py",
+ "out": "../docs/notes/mars-jyotish-vidya-ep13.html",
+ "points": [
+  ["Mars is effort.", "Trust your own arrows. Do not hang your hope on results or on other people."],
+  ["Mars is the navel.", "Fire, digestion, will power. A frightened navel means illness and anger."],
+  ["Friendship is the remedy.", "Forgive, say forget it, make friends. Your spouse should be your friend."],
+  ["Mars sits between Jupiter and Venus.", "The Mangalik fuss is about the husband and wife pair."],
+  ["Take no credit.", "You are the instrument. Then Mars stays set."],
+  ["Debt is not the enemy.", "Do not fear it, do not gamble on it, do not lend twice."],
+  ["Stones and ivory.", "His coral rules are recorded, not endorsed. Ivory is banned."]
+ ],
+ "puts": [
+  ["<ul>\n<li>Ayurveda works through the navel", "navel"],
+  ["<h3>The body of Mars", "forget"],
+  ["<h3>Mars the driver, between husband and wife", "triad"],
+  ["<h3>\"Why do astrologers not suggest stones?\"", "debt"],
+  ["<h3>Gambling and the Mangalik checks", "mang"]
+ ]
+}

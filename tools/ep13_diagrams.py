@@ -1,0 +1,36 @@
+from diagrams import box,arr,lab,fig
+def d_navel():
+    s=box(110,8,200,40,['Spirit energy above'],'b')+arr(210,48,210,66)
+    s+=box(90,66,240,52,['THE NAVEL = MARS','fire, will power, friend'],'r')+arr(210,118,210,136)
+    s+=box(130,136,160,40,['Devil energy below'],'n')
+    s+=arr(65,118,65,136)+arr(355,118,355,136)
+    s+=box(5,136,110,64,['Five airs','set from it'],'g')+box(305,136,110,64,['Digestion,','healing, blood'],'g')
+    return fig(210,s,'Mars as the navel centre, per the speaker.','Navel as Mars centre')
+def d_forget():
+    s=box(110,8,200,40,['Someone insults you'],'n')+arr(150,48,95,76)+arr(270,48,325,76)
+    s+=box(5,76,200,64,['Mars good','"Forget it, leave it"','navel digests'],'g')
+    s+=box(215,76,200,64,['Mars bad','"You tore my heart"','old words kept'],'r')
+    s+=arr(105,140,105,160)+arr(315,140,315,160)
+    s+=box(5,160,200,52,['Friends form','luck, free gains'],'g')+box(215,160,200,52,['Anger, no friends','stomach trouble'],'r')
+    return fig(222,s,'Forgetting is the navel digesting, in his reading.','Mars good versus bad flow')
+def d_triad():
+    s=box(5,10,130,60,['JUPITER','husband, guru'],'b')+box(285,10,130,60,['VENUS','wife'],'b')
+    s+=box(140,10,140,60,['MARS','between them'],'r')
+    s+=arr(210,70,210,92)
+    s+=box(30,92,170,60,['Friendship held','peace at home'],'g')+box(220,92,170,60,['No friendship','fights, divorce'],'r')
+    return fig(162,s,'Mars sits between the husband and wife planets.','Jupiter Mars Venus triad')
+def d_debt():
+    s=box(110,8,200,40,['Debt keeps coming'],'r')+arr(210,48,210,66)
+    s+=box(60,66,300,40,['Mars links the debt area'],'b')+arr(210,106,210,124)
+    s+=box(60,124,300,52,['Do not fear it','no lending again, no gambling'],'g')+arr(210,176,210,194)
+    s+=box(60,194,300,52,['His stone rule: ring finger','Tuesday, clean stone, checks first'],'n')
+    return fig(256,s,'The speaker\'s debt path. Not financial advice.','Debt remedy flowchart')
+def d_mang():
+    s=box(110,8,200,40,['Mars in houses 1,4,7,8,12'],'r')+arr(210,48,210,66)
+    s+=box(30,66,360,40,['Check the main chart, not the navamsa'],'b')+arr(210,106,210,124)
+    s+=box(60,124,300,40,['Saturn in same houses: cancelled'],'g')
+    s+=arr(150,164,100,190)+arr(270,164,320,190)
+    s+=box(5,190,200,64,['Not cancelled','Mangalik with Mangalik','or pot marriage'],'n')
+    s+=box(215,190,200,64,['Age: boy 27-28','girl 23, he says','it does not end at 30'],'n')
+    return fig(264,s,'The Mangalik checks as he gives them. Folk convention.','Mangalik checks flowchart')
+D=dict(navel=d_navel(),forget=d_forget(),triad=d_triad(),debt=d_debt(),mang=d_mang())
