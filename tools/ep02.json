@@ -1,0 +1,62 @@
+{
+ "vid": "zB46Ww7qfas",
+ "title": "Understanding Astrology Planets",
+ "len": "109",
+ "sub": "Complete notes on Jyotish Vidya Ep. 2 by Brajesh Gautam, The Anchor Of Life. Belief and body-mind sync, Jupiter and the child who will not listen, how degrees decide a house, food and planets, the ishta deity, the planets as a household with stones, Kaal Sarp and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 2, Understanding Astrology Planets by Brajesh Gautam: belief, degrees and houses, food and planets, ishta deity, stones, Kaal Sarp, with video timestamps.",
+ "sections_dir": "ep02_sections",
+ "diagrams_module": "ep02_diagrams.py",
+ "out": "../docs/notes/understanding-astrology-planets-jyotish-vidya-ep2.html",
+ "points": [
+  [
+   "No number is lucky or unlucky.",
+   "The chart is about 12 percent fixed. Your belief and body-mind sync is the rest."
+  ],
+  [
+   "Fix Jupiter first for a child who will not listen.",
+   "A damaged Jupiter blocks advice. Do not just scold or add tuition."
+  ],
+  [
+   "Check the degrees before trusting a house.",
+   "A planet shown in a house may not be working there."
+  ],
+  [
+   "Food and drink are a planet question.",
+   "Mars, Moon, Ketu, Rahu and Venus each flag different foods, per the speaker."
+  ],
+  [
+   "Keep your ishta in the west of the home.",
+   "One deity per person, no opposing pairs, no ritual needed."
+  ],
+  [
+   "The planets are one household.",
+   "Sun father, Moon mother, Mars son, Mercury daughter, Jupiter guru, Saturn servant."
+  ],
+  [
+   "Do not doubt your guide or curse others.",
+   "Doubt and cursing damage the very planet you need."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>People are scared",
+   "sync"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Planet</th><th>Role in the household",
+   "stones"
+  ],
+  [
+   "<h3>The Mars example",
+   "degrees"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Chart condition (as he says it)",
+   "food"
+  ],
+  [
+   "<h3>A family with many ishtas",
+   "ishta"
+  ]
+ ]
+}
