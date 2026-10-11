@@ -36,6 +36,7 @@ Point-wise study notes are being written video by video. Live so far:
 - [Bhaav And Planets (Jyotish Vidya Ep. 7)](https://codersacademy006.github.io/astro-notes/notes/bhaav-and-planets-jyotish-vidya-ep7.html)
 - [Understanding Astrology (Jyotish Vidya Ep. 1)](https://codersacademy006.github.io/astro-notes/notes/understanding-astrology-jyotish-vidya-ep1.html)
 - [Understanding Astrology: Planets (Jyotish Vidya Ep. 2)](https://codersacademy006.github.io/astro-notes/notes/understanding-astrology-planets-jyotish-vidya-ep2.html)
+- [Retrograde Planets (Jyotish Vidya Ep. 3)](https://codersacademy006.github.io/astro-notes/notes/retrograde-planets-jyotish-vidya-ep3.html)
 - [Donation and Charity (Jyotish Vidya Ep. 9)](https://codersacademy006.github.io/astro-notes/notes/donation-and-charity-jyotish-vidya-ep9.html)
 - [Love and Marriage (Jyotish Vidya Ep. 10)](https://codersacademy006.github.io/astro-notes/notes/love-and-marriage-jyotish-vidya-ep10.html)
 - [Planet Saturn (Jyotish Vidya Ep. 12)](https://codersacademy006.github.io/astro-notes/notes/saturn-and-remedies-jyotish-vidya-ep12.html)

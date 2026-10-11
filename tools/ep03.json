@@ -1,0 +1,62 @@
+{
+ "vid": "_mCF7o_gwMc",
+ "title": "Retrograde Planets",
+ "len": "137",
+ "sub": "Complete notes on Jyotish Vidya Ep. 3 by Brajesh Gautam, The Anchor Of Life. Why remedies cost a sacrifice, twelve sign natures and timing, the planets as a family, hosts and guests, Venus, Ketu, Jupiter, outer planets, cord cutting and Q&A.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 3, Retrograde Planets by Brajesh Gautam: sacrifice, sign natures, planets as a family, host rule, cord cutting, with video timestamps.",
+ "sections_dir": "ep03_sections",
+ "diagrams_module": "ep03_diagrams.py",
+ "out": "../docs/notes/retrograde-planets-jyotish-vidya-ep3.html",
+ "points": [
+  [
+   "A remedy costs a sacrifice.",
+   "Pay in money, early and quietly, rather than in time, body or peace."
+  ],
+  [
+   "Do not fight what has happened.",
+   "Arguing raises stress and wakes the 3rd, 6th, 8th and 12th houses."
+  ],
+  [
+   "Match the lagna type to the job.",
+   "Movable for starting work, fixed for weddings and homecomings."
+  ],
+  [
+   "The planets are a family.",
+   "Honour mothers, aunts, sisters and fathers to open the door to grace."
+  ],
+  [
+   "Where a planet visits decides its result.",
+   "Moon is best in sign 2, worst in 1 or 8; Sun is best in 1."
+  ],
+  [
+   "Venus, Ketu and Jupiter each have their own fixes.",
+   "Scent rules, serving tailed animals, knowledge and a guru."
+  ],
+  [
+   "Cord cutting is a calm visualisation.",
+   "The speaker’s step-by-step for freeing yourself from a hurtful blood tie."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>The auto-ride story",
+   "bali"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Type</th><th>Signs (numbers)",
+   "modes"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Planet</th><th>Role he gives",
+   "family"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Guest planet</th>",
+   "host"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Problem</h4><p>A mother, father",
+   "cord"
+  ]
+ ]
+}
