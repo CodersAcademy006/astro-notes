@@ -1,0 +1,62 @@
+{
+ "vid": "h8udc_JNiAg",
+ "title": "Understanding Astrology",
+ "len": "152",
+ "sub": "Complete notes on Jyotish Vidya Ep. 1 by Brajesh Gautam, The Anchor Of Life. Prarabdha and free will, human consciousness, the body as planetary portals, twelve signs, Neptune's grace, the deity at home and Vastu zones.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 1, Understanding Astrology by Brajesh Gautam: fate and prarabdha, asking big, planets in the body, the twelve signs, Varuna and Vastu, with video timestamps.",
+ "sections_dir": "ep01_sections",
+ "diagrams_module": "ep01_diagrams.py",
+ "out": "../docs/notes/understanding-astrology-jyotish-vidya-ep1.html",
+ "points": [
+  [
+   "Astrology is true, astrologers can be false.",
+   "Doubt one doctor, not medicine. The aim is grace, not becoming an astrologer."
+  ],
+  [
+   "About 12 percent of life is fixed (prarabdha).",
+   "The rest follows your commands and reactions. To end old karma, do not react."
+  ],
+  [
+   "Ask big and ask clean.",
+   "No negatives in a wish. The planets deliver the size of your first ask."
+  ],
+  [
+   "The body is a set of planet portals.",
+   "Mars at the navel, Jupiter at the liver, Saturn at the bones. Pain marks the portal that is off."
+  ],
+  [
+   "Twelve signs, twelve rulers.",
+   "Rahu, Ketu, Uranus, Neptune and Pluto each take a sign."
+  ],
+  [
+   "Neptune (Varuna) grace comes first.",
+   "Set the west of the home. Without grace every other tool misses."
+  ],
+  [
+   "Do not build a temple inside the home.",
+   "Keep the deity your chart supports. God is neutral, karma is yours."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>The tunnel",
+   "fate"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Portal or planet",
+   "body"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>No.</th><th>Sign",
+   "signs"
+  ],
+  [
+   "<h3>Elements in the body, as he gives them",
+   "elements"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Zone</th>",
+   "journey"
+  ]
+ ]
+}
