@@ -12,6 +12,8 @@ Transcripts and study notes for the YouTube channel
 | `INDEX.md` | Every video with its length, word count and YouTube link |
 | `index.csv` | Same index as a spreadsheet-friendly file |
 | `docs/` | Published notes site (GitHub Pages) |
+| `STATUS.csv` | Jyotish Vidya series: video id, transcript path, notes done or todo |
+| `AGENTS.md` | How any agent or session continues the notes from the raw transcripts |
 
 Live notes: https://codersacademy006.github.io/astro-notes/
 
