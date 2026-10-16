@@ -27,7 +27,9 @@ a.card:hover{border-color:var(--accent)}
 <h1>Astro Notes</h1>
 <p>Study notes for The Anchor Of Life With Brajesh Gautam. 42 notes are live.</p>
 <div class="controls">
+<input type="search" id="search" placeholder="Search notes" aria-label="Search notes">
 <button id="sortToggle" type="button" aria-pressed="false">Featured order</button>
+<span class="count" id="readCount"></span>
 </div>
 <div id="cards">
 <a class="card" data-added="2026-10-16" data-rank="41" href="notes/sun-asap-ep2.html"><b>Planet Sun (ASAP Ep. 2)<span class="badge">NEW</span></b><span>The Sun as the astral body's source, a full body-map of the planets, the Sun through all twelve signs, personal protective deities and ritual as a kind of hypnosis, with video timestamps.</span></a>
@@ -90,5 +92,6 @@ cards.forEach(function(c){list.appendChild(c)});
 });
 })();
 </script>
+<script src="assets/read.js"></script>
 </body>
 </html>
