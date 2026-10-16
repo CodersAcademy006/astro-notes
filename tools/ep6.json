@@ -1,0 +1,62 @@
+{
+ "vid": "yNl3jMu5EMc",
+ "title": "Rashi and the Behaviour of Planets",
+ "len": "293",
+ "sub": "Complete notes on Jyotish Vidya Ep. 6 (Parts 1 and 2) by Brajesh Gautam, The Anchor Of Life. How each planet behaves, by element, by sign and by house, through the Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Rahu, Ketu and the outer planets, with two worked charts.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 6, Rashi and Behaviour of Planets (Parts 1 and 2) by Brajesh Gautam: a planet-by-planet guide to Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Rahu and Ketu, aspect reach, and two worked charts, with video timestamps.",
+ "sections_dir": "ep6_sections",
+ "diagrams_module": "ep6_diagrams.py",
+ "out": "../docs/notes/rashi-and-behaviour-of-planets-jyotish-vidya-ep6.html",
+ "points": [
+  [
+   "Depend on your own planets.",
+   "Borrowed happiness, like the Moon's borrowed light, is said to drain the very planet you leaned on."
+  ],
+  [
+   "There is no single rule for everyone.",
+   "Each person's mix of elements differs, so no one daily schedule or remedy fits everybody."
+  ],
+  [
+   "Every planet has a style and an organ.",
+   "Sun is confidence and vitamin D, Moon is immunity, Mercury is speech, Mars is willpower, Jupiter is the liver, Venus is the heart, Saturn is the skeleton."
+  ],
+  [
+   "A gemstone filters, it does not boost.",
+   "The speaker's repeated rule: a well-fitted stone only filters a planet's rays, it never raises or lowers the planet's power."
+  ],
+  [
+   "An exalted planet can still misfire.",
+   "Both worked charts in Part 2 show a strong sign giving a reversed result once its house is read."
+  ],
+  [
+   "Saturn rewards staying unaware.",
+   "Tracking every setback is said to feed it; letting go lets it quietly arrange a fix instead."
+  ],
+  [
+   "Giving without counting is Ketu's and Saturn's remedy.",
+   "Secret, uncounted giving is treated as the way to keep both planets content."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"box\">\n<h4>His rough style tag for each planet",
+   "tattva"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>The trap</h4><p>Watching, tracking",
+   "blind"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Planet(s)</th><th>Houses its aspect reaches</th>",
+   "aspect"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>The paradox</h4>",
+   "reverse"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Planet ruling the sign there</th>",
+   "donate"
+  ]
+ ]
+}
