@@ -1,0 +1,62 @@
+{
+ "vid": "UhLy_wG5Udc",
+ "title": "The Moon",
+ "len": "133",
+ "sub": "Complete notes on ASAP Ep. 3 by Brajesh Gautam, The Anchor Of Life. The Moon as the body's water, memory and the restless mind, manifestation through the observer effect, protective deities, a house-by-house reading of the Moon as mother, and the name remedy, with video timestamps.",
+ "desc": "Complete notes on ASAP Ep. 3, The Moon by Brajesh Gautam: water, memory, manifestation, protective deities, Moon by house, and the name and gemstone remedies, with video timestamps.",
+ "sections_dir": "asap3_sections",
+ "diagrams_module": "asap3_diagrams.py",
+ "out": "../docs/notes/moon-asap-ep3.html",
+ "points": [
+  [
+   "Pride stiffens the body; flexibility settles it.",
+   "The body is roughly 72 percent water, and he reads rigidity, not food, as the real source of brittleness."
+  ],
+  [
+   "The Moon is the fastest, most restless planet.",
+   "It changes sign every two and a quarter days and is said to govern the mind, memory and the body's water."
+  ],
+  [
+   "Wanting an outcome too hard can work against you.",
+   "His safer default is \"I don't care either way, and whatever happens will be for the good.\""
+  ],
+  [
+   "Everyone carries a protective and an opposing deity.",
+   "Both come from the chart's 9th house and run automatically, whatever religion, or none, a person practises."
+  ],
+  [
+   "A disturbed Moon shows up in ordinary life, not just a label.",
+   "Leaks at home, low immunity, OCD, constant comparison and hallucination are his listed signs."
+  ],
+  [
+   "The main fixes are food timing, charity, gemstones and a name check.",
+   "Sunset food rules, anonymous giving, pearl, and checking whether your name's first letter sits in a hostile house."
+  ],
+  [
+   "Hypnosis, mantra and manifestation share one mechanism in his telling.",
+   "Repeated suggestion, for better or worse, is what shapes the restless mind he calls the Moon."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"lead\"><p>The class opens with a parable: a proud man boasts",
+   "flex"
+  ],
+  [
+   "<div class=\"lead\"><p>A long tangent connects the Moon to manifestation.",
+   "loop"
+  ],
+  [
+   "<div class=\"lead\"><p>Branching off a question about a real birth chart,",
+   "ishta"
+  ],
+  [
+   "<div class=\"card prob\"><h4>Signs at home</h4>",
+   "signs"
+  ],
+  [
+   "<div class=\"lead\"><p>His recommended long-term fix for a difficult Moon",
+   "name"
+  ]
+ ]
+}
