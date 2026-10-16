@@ -1,0 +1,62 @@
+{
+ "vid": "eRjwFBaBJzc",
+ "title": "Consciousness vs Kundli",
+ "len": "143",
+ "sub": "Complete notes on ASAP Ep. 1 by Brajesh Gautam, The Anchor Of Life. The opening talk of a new series: how consciousness, not just remedies, changes the way each planet's dosha plays out.",
+ "desc": "Complete notes on ASAP Ep. 1, Consciousness vs Kundli by Brajesh Gautam: knowledge versus wisdom, each planet reframed through awareness, gemstones as damage control, and a worked chart example, with video timestamps.",
+ "sections_dir": "asap1_sections",
+ "diagrams_module": "asap1_diagrams.py",
+ "out": "../docs/notes/consciousness-vs-kundli-asap-ep1.html",
+ "points": [
+  [
+   "Knowledge has a ceiling, wisdom does not.",
+   "A guru is a guide to the next stretch of road, not a place to stop."
+  ],
+  [
+   "A king does not beg.",
+   "Ask from a sense of right, not from helplessness, to keep the Sun strong."
+  ],
+  [
+   "Every planet gets a consciousness fix.",
+   "Listening settles Rahu, feeding a dog settles Ketu, tidy storage settles Jupiter, and so on through all nine."
+  ],
+  [
+   "Mercury and Venus sit on a seesaw.",
+   "A level pair gives an ordinary mix of luck; a tipped pair swings between extremes."
+  ],
+  [
+   "A gemstone only limits downside.",
+   "It is damage control, not a source of success that was not already due."
+  ],
+  [
+   "A fixed share of life still plays out.",
+   "The speaker puts it at about 12 percent, regardless of status or faith."
+  ],
+  [
+   "The closing chart reading shows the method.",
+   "Retrograde and combust planets, and a house ruler's seat elsewhere in the chart, decide how a dosha plays out."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>Knowledge (नॉलेज)</h4>",
+   "knowledge"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>The pattern</h4><p>Nothing in life feels balanced",
+   "balance"
+  ],
+  [
+   "<li><b>In-law conflict as Rahu's home.</b>",
+   "rahuketu"
+  ],
+  [
+   "<h3>If a stone \"didn't work\"",
+   "stone"
+  ],
+  [
+   "<div class=\"card prob\"><h4>Indra: enjoyment blocked</h4>",
+   "triad"
+  ]
+ ]
+}
