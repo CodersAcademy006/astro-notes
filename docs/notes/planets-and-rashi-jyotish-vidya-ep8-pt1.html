@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Planets and Rashi, Part 1: Complete Notes</title>
+<meta name="description" content="Complete notes on Jyotish Vidya Ep. 8 (Part 1), Planets and Rashi, by Brajesh Gautam: how houses and signs differ, how fast each planet moves, the Sun, Moon and Mars through the twelve signs, donation rules and gemstone caution, with video timestamps.">
+<style>
+:root{--bg:#fff;--fg:#1d1d1f;--mute:#6e6e73;--line:#e5e5ea;--card:#f5f5f7;--accent:#0a60d0;--warn:#fff6e5;--warnline:#f0c36d;--prob:#c4362b;--why:#8a6a1c;--fix:#1a7f3c;--bar:rgba(255,255,255,.72)}
+@media (prefers-color-scheme:dark){:root{--bg:#000;--fg:#f5f5f7;--mute:#98989d;--line:#2c2c2e;--card:#1c1c1e;--accent:#5aa2ff;--warn:#2a2210;--warnline:#8a6a1c;--prob:#ff6b60;--why:#e0b653;--fix:#4cd27a;--bar:rgba(0,0,0,.72)}}
+@media (prefers-reduced-transparency:reduce){:root{--bar:var(--bg)}}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:64px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--bg);color:var(--fg);font:100%/1.6 system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+.bar{position:sticky;top:0;z-index:5;background:var(--bar);-webkit-backdrop-filter:blur(20px) saturate(180%);backdrop-filter:blur(20px) saturate(180%);border-bottom:1px solid var(--line)}
+.bar div{max-width:900px;margin:0 auto;padding:10px 16px;display:flex;justify-content:space-between;gap:12px;font-size:.88rem}
+.bar b{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar a{color:var(--accent);text-decoration:none;white-space:nowrap}
+main{max-width:900px;margin:0 auto;padding:32px 16px 96px}
+h1{font-size:clamp(2rem,5.5vw,3rem);line-height:1.06;letter-spacing:-.03em;margin:0 0 8px}
+h2{font-size:1.5rem;line-height:1.2;letter-spacing:-.018em;margin:2.6em 0 .5em;padding-top:.7em;border-top:1px solid var(--line)}
+h3{font-size:1.1rem;letter-spacing:-.008em;margin:1.7em 0 .4em}
+h4{font-size:.74rem;text-transform:uppercase;letter-spacing:.07em;margin:0 0 .35em;color:var(--mute)}
+p,li{font-size:1rem}
+ul{padding-left:1.25em;margin:.4em 0}
+li{margin:.3em 0}
+.sub{color:var(--mute);font-size:1.1rem;margin:0 0 20px}
+.sub2{color:var(--mute);margin:.2em 0 1em}
+.meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:8px;margin:18px 0}
+.meta div{background:var(--card);border-radius:12px;padding:10px 14px;font-weight:600}
+.meta b{display:block;font-size:.72rem;color:var(--mute);text-transform:uppercase;letter-spacing:.06em;font-weight:600}
+.box,.story{background:var(--card);border-radius:14px;padding:14px 18px;margin:14px 0}
+.box>*:first-child,.story>*:first-child{margin-top:.2em}
+.box>*:last-child,.story>*:last-child{margin-bottom:.2em}
+.box.warn{background:var(--warn);border:1px solid var(--warnline)}
+.story{border-left:3px solid var(--accent)}
+.lead p{font-size:1.15rem;line-height:1.55}
+.op{font-size:.88rem;color:var(--mute);border-left:2px solid var(--warnline);padding-left:10px;margin:.7em 0}
+.three{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:10px;margin:14px 0}
+.card{background:var(--card);border-radius:14px;padding:14px 16px;border-top:3px solid var(--line)}
+.card.prob{border-top-color:var(--prob)}.card.prob h4{color:var(--prob)}
+.card.why{border-top-color:var(--why)}.card.why h4{color:var(--why)}
+.card.fix{border-top-color:var(--fix)}.card.fix h4{color:var(--fix)}
+.card p{margin:.3em 0;font-size:.97rem}.card li{font-size:.97rem}
+table{border-collapse:collapse;width:100%;margin:12px 0;font-size:.95rem}
+th,td{border-bottom:1px solid var(--line);padding:9px 10px;text-align:left;vertical-align:top}
+th{font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--mute)}
+.tablewrap{overflow-x:auto}
+a.ts{font-size:.76rem;color:var(--accent);text-decoration:none;white-space:nowrap;font-variant-numeric:tabular-nums;background:var(--card);border-radius:6px;padding:1px 6px;margin-left:2px}
+h2 a.ts{font-size:.8rem;vertical-align:middle;font-weight:500}
+nav.toc{columns:2 300px;font-size:.95rem;margin:12px 0}
+nav.toc a{color:var(--accent);text-decoration:none}
+nav.toc div{break-inside:avoid;margin:3px 0}
+.link a{color:var(--accent)}
+.takeaways{counter-reset:k;list-style:none;padding:0}
+.takeaways li{counter-increment:k;display:flex;gap:12px;margin:.6em 0}
+.takeaways li::before{content:counter(k);flex:none;width:1.6rem;height:1.6rem;border-radius:50%;background:var(--accent);color:#fff;font-size:.85rem;font-weight:600;display:flex;align-items:center;justify-content:center;margin-top:.1rem}
+a.btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;border-radius:999px;padding:8px 18px;font-weight:600;font-size:.95rem}
+a.btn:active{transform:scale(.97)}
+figure.dg{margin:18px auto;max-width:520px}
+figure.dg svg{width:100%;height:auto;display:block;font:14px/1.2 system-ui,-apple-system,"Segoe UI",sans-serif}
+figure.dg text{fill:var(--fg)}
+figure.dg text.lb{fill:var(--mute);font-size:12px}
+figure.dg rect{stroke-width:1.5}
+figure.dg rect.n{fill:var(--card);stroke:var(--line)}
+figure.dg rect.e{fill:none;stroke:var(--line);stroke-dasharray:3 4}
+figure.dg rect.b{fill:var(--card);stroke:var(--accent)}
+figure.dg rect.g{fill:var(--card);stroke:var(--fix)}
+figure.dg rect.r{fill:var(--card);stroke:var(--prob)}
+figure.dg path.n{fill:var(--card);stroke:var(--line)}
+figure.dg .ln{stroke:var(--mute);stroke-width:1.5}
+figure.dg .ahp{fill:var(--mute)}
+figure.dg figcaption{font-size:.85rem;color:var(--mute);margin-top:6px;text-align:center}
+@media print{.bar{display:none}body{background:#fff;color:#000}.card,.box,.story,table{break-inside:avoid}h2{break-after:avoid}a.ts{display:none}}
+</style>
+</head>
+<body>
+<div class="bar"><div><b>Planets and Rashi, Part 1</b><a href="https://www.youtube.com/watch?v=Ronux-Egaww">Watch the video</a></div></div>
+<main>
+<h1>Planets and Rashi, Part 1</h1>
+<p class="sub">Complete notes on Jyotish Vidya Ep. 8 (Part 1) by Brajesh Gautam, The Anchor Of Life. Houses versus signs, planetary speed, the twelve signs, the Sun, Moon and Mars sign by sign, and remedies.</p>
+<div class="meta">
+<div><b>Video</b>Ronux-Egaww</div>
+<div><b>Length</b>153 min</div>
+<div><b>Language</b>Hindi / Hinglish</div>
+<div><b>Source</b>YouTube auto-captions</div>
+</div>
+<p><a class="btn" href="https://www.youtube.com/watch?v=Ronux-Egaww">Watch the original video</a></p>
+
+<div class="box warn">
+<p><b>How to read these notes.</b> They follow the talk in order and keep its examples, stories and remedies. Every section has timestamps that open the video at that moment, so any claim can be checked against the source.</p>
+<p>These are the speaker's traditional and personal views. Where he gives his own framework or opinion it is marked as such. Gemstones, threads, fasting and similar practices should be decided with a qualified astrologer who has read your full chart. Nothing here is medical, legal or financial advice. Wording is cleaned from machine captions, so Hindi names and terms may differ slightly from the spoken words.</p>
+</div>
+
+<h2 style="border:0;margin-top:1.6em">The talk in brief</h2>
+<ol class="takeaways"><li><div><b>Houses are fixed, signs move.</b> The 12 houses are like fixed rooms. Planets move through the 12 signs at very different speeds, from the Moon's 2.5 days to decades for Indra, Varuna and Yama.</div></li><li><div><b>Own sign is strong, a friendly sign can beat it, the opposite sign is weakest.</b> This one rule runs through every planet-by-sign reading in the class.</div></li><li><div><b>The Sun, Moon and Mars change meaning sign by sign.</b> Light, water and fire each react differently to each sign's own element, from best to debilitated.</div></li><li><div><b>Mercury is good almost everywhere, with one weak spot.</b> Debilitated in Pisces. Remedy: never disrespect a sister, aunt, daughter or sister-in-law, and serve the hijda community.</div></li><li><div><b>Donation only works if it matches the actual placement.</b> A well-placed planet's items, given at a sacred place, multiply fortune. The same items given around a badly placed planet can make things worse.</div></li><li><div><b>Gemstones are not one-size-fits-all.</b> Shade, origin, finger and weight are chart-specific. Getting the weight wrong, in either direction, can backfire.</div></li><li><div><b>Test an astrologer or a guru before trusting them.</b> Let them tell you things unprompted. Once you run out of questions for someone, they have earned the title.</div></li></ol>
+
+<h2 style="border:0;margin-top:1.4em">Contents</h2>
+<nav class="toc"><div><a href="#whystudy">1. Why study planets at all: the limping man and the acupuncture story</a></div><div><a href="#speed">2. Houses are fixed, signs move: how fast each planet changes its sign</a></div><div><a href="#signs">3. The twelve signs and who rules them</a></div><div><a href="#ownhouse">4. Own house, friend's house, enemy's house: the rule behind every placement</a></div><div><a href="#sun">5. The Sun sign by sign: light and heat</a></div><div><a href="#moon">6. The Moon sign by sign: the state of the mind</a></div><div><a href="#mars">7. Mars sign by sign: fire, and what it burns or lights</a></div><div><a href="#mercjupven">8. Mercury, Jupiter and Venus: quick notes and their remedies</a></div><div><a href="#donation">9. Donation rules: match the planet, match the place</a></div><div><a href="#gemstones">10. Gemstones: why this is not a simple "wear this stone" answer</a></div><div><a href="#qa">11. Rapid-fire questions</a></div><div><a href="#cheat">12. Remedy cheat sheet from this class</a></div><div><a href="#about">About these notes</a></div></nav>
+
+<section id="whystudy">
+<h2>1. Why study planets at all: the limping man and the acupuncture story <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=37s">00:00:37</a></h2>
+<div class="lead"><p>The speaker opens with a story he says explains why astrology is worth learning even though it cannot be shown or proven the way a gadget can: in old China a quarrelsome man limped everywhere and made so many enemies that a group cornered him and fired an arrow to kill him. It missed his back and lodged in his leg by accident, and the moment it struck that one point, he began to run straight. That accident, he says, is how acupuncture was born: a tangled flow of energy in the body was straightened by a single point, and 700 such points have since been mapped. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=37s">00:00:37</a></p></div>
+<ul>
+<li>The body follows energy, and energy is generated by the mind. A crooked flow of energy makes the body and the life crooked, and the speaker's claim is that this crooked flow is caused by planets sitting in crooked positions overhead. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=165s">00:02:45</a></li>
+<li>When the troubling planets later move to a better position, straight energy automatically starts reaching the person, and the mind straightens on its own. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=227s">00:03:47</a></li>
+<li>He extends the idea with the proverb "vinash kaale vipreet buddhi" (when ruin is near, judgement turns upside down): when the mind runs crooked, the speaker says to ask "is this Mars, Rahu, Ketu or Saturn jamming my head", and treat it with witness awareness (sakshi bhav) rather than reacting. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=258s">00:04:18</a></li>
+<li>Whether or not a person believes in astrology makes no difference, the same way a headache goes away with Disprin whether or not the patient believes in medicine. These planets are what sent Ram into exile, put Krishna in prison, got Ravan killed and make and unmake prime ministers. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=321s">00:05:21</a></li>
+</ul>
+<p class="op">The acupuncture origin story and the claim that planetary positions are the direct cause of specific life events are the speaker's own framing, not verified history or settled science.</p>
+<h3>Knowledge has no age limit <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=412s">00:06:52</a></h3>
+<ul>
+<li>Learning this "art of life" automatically brings ease and witness-consciousness, because the planets themselves are "trying to teach you, like a parent", and resisting that teaching is itself a source of suffering (klesh). <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=412s">00:06:52</a></li>
+<li>His analogy for carried-over learning: if you deposit money in the bank today and wake up tomorrow, the balance is still there. In the same way, whatever knowledge or spiritual progress you gain in this life is carried into the next birth as your "bank balance", so there is no age at which learning stops being worthwhile. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=443s">00:07:23</a></li>
+</ul>
+</section>
+
+<section id="speed">
+<h2>2. Houses are fixed, signs move: how fast each planet changes its sign <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=505s">00:08:25</a></h2>
+<p class="sub2">The speaker's core model for the whole class: the 12 houses (bhav) of a chart are like the fixed rooms of a house (one is always the head, one the stomach, one the chest, whatever actually happens inside them), while the 12 signs (rashi) rotate through those rooms as the planets move through the zodiac. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=505s">00:08:25</a></p>
+<ul>
+<li>Houses never change meaning: whichever one is the head stays the head whether it is injured, healthy or anything else, the same way a drawing room stays a drawing room even if someone makes a mess in it. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=536s">00:08:56</a></li>
+<li>Different planets move through the 12 signs at very different speeds, and that speed decides how long an effect lasts in your life. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=754s">00:12:34</a></li>
+</ul>
+<figure class="dg"><svg viewBox="0 0 420 368" role="img" aria-label="List of planets ordered from fastest-moving (Moon) to slowest-moving (Indra, Varuna, Yama)"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" class="ahp"/></marker></defs><rect x="10" y="6" width="400" height="46" rx="10" class="g"/><text x="210.0" y="25.5" text-anchor="middle"><tspan x="210.0" dy="0">Moon</tspan><tspan x="210.0" dy="17">about 2.5 days</tspan></text><line x1="210" y1="52" x2="210" y2="68" class="ln" marker-end="url(#ah)"/><rect x="10" y="68" width="400" height="46" rx="10" class="n"/><text x="210.0" y="87.5" text-anchor="middle"><tspan x="210.0" dy="0">Sun</tspan><tspan x="210.0" dy="17">about 1 month</tspan></text><line x1="210" y1="114" x2="210" y2="130" class="ln" marker-end="url(#ah)"/><rect x="10" y="130" width="400" height="46" rx="10" class="n"/><text x="210.0" y="149.5" text-anchor="middle"><tspan x="210.0" dy="0">Mars</tspan><tspan x="210.0" dy="17">about 1.5 months</tspan></text><line x1="210" y1="176" x2="210" y2="192" class="ln" marker-end="url(#ah)"/><rect x="10" y="192" width="400" height="46" rx="10" class="n"/><text x="210.0" y="211.5" text-anchor="middle"><tspan x="210.0" dy="0">Jupiter</tspan><tspan x="210.0" dy="17">about 11-13 months</tspan></text><line x1="210" y1="238" x2="210" y2="254" class="ln" marker-end="url(#ah)"/><rect x="10" y="254" width="400" height="46" rx="10" class="b"/><text x="210.0" y="273.5" text-anchor="middle"><tspan x="210.0" dy="0">Saturn</tspan><tspan x="210.0" dy="17">about 2.5 years</tspan></text><line x1="210" y1="300" x2="210" y2="316" class="ln" marker-end="url(#ah)"/><rect x="10" y="316" width="400" height="46" rx="10" class="r"/><text x="210.0" y="335.5" text-anchor="middle"><tspan x="210.0" dy="0">Indra, Varuna, Yama</tspan><tspan x="210.0" dy="17">decades per sign</tspan></text></svg><figcaption>How long each planet stays in one sign, fastest to slowest, as the speaker gives it.</figcaption></figure><div class="tablewrap"><table>
+<tr><th>Planet</th><th>Roughly how long in one sign</th><th>What that speed means in a life</th></tr>
+<tr><td>Moon</td><td>About 2.5 days</td><td>Grants or changes small, fast wishes (a craving, a small gift, a short trip) within that window. The speaker calls it "the biggest trickster planet" because it is this fast. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=817s">00:13:37</a></td></tr>
+<tr><td>Sun</td><td>About 1 month</td><td>Monthly-scale effects, moving steadily through all 12 signs in a year. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=1164s">00:19:24</a></td></tr>
+<tr><td>Mercury and Venus</td><td>Stay close to the Sun</td><td>Described as the Sun's constant "tail", rarely straying far from its sign. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=754s">00:12:34</a></td></tr>
+<tr><td>Mars</td><td>About 1.5 months</td><td>Short- to medium-term effects.</td></tr>
+<tr><td>Jupiter</td><td>Roughly 11 to 13 months</td><td>Close to a year per sign, so its blessings or blocks run for about that long.</td></tr>
+<tr><td>Saturn</td><td>About 2.5 years, give or take a few weeks</td><td>Year-scale delays: long court cases and long-stalled projects are blamed on this slow movement. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=817s">00:13:37</a></td></tr>
+<tr><td>Indra (Uranus), Varuna (Neptune), Yama (Pluto)</td><td>Decades per sign (the speaker gives Indra roughly 84 years and Yama roughly 200 to 250 years for a full cycle)</td><td>Usually skipped in quick readings because they barely move, but the speaker says they give the longest-running effects of all: a business that never takes off for 40 years, or a property dispute that outlives a grandfather and settles only when the planet finally changes sign. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=1039s">00:17:19</a></td></tr>
+</table></div>
+<div class="box">
+<h4>Why this matters for timing <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=847s">00:14:07</a></h4>
+<ul>
+<li><b>The stuck-builder story.</b> If a slow-moving malefic planet is involved in your home-buying chart, the speaker says your own mind gets pulled toward a builder whose project happens to be exactly as delayed, because the planet "is not changing sign for 10 years" and neither will your wait. His advice: do not speed up your own thinking into a decision when a heavy planet is still sitting still. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=817s">00:13:37</a></li>
+<li><b>The Moon grants small things fast.</b> Within its own 2.5-day window a small wish (street food, a surprise gift, an invitation) often lands, which is why people who understand the system consult a knowledgeable person about timing. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=880s">00:14:40</a></li>
+<li><b>Patience and "tandra".</b> If a knowledgeable person has given you a date, the speaker's advice is to hold your conviction (described as "one-pointed retention") until that window arrives. Breaking down and crying beforehand breaks your own deep, repairing sleep ("tandra") and can undo the timing. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=1008s">00:16:48</a></li>
+</ul>
+</div>
+<p class="op">The exact year-counts for Indra, Varuna and Yama are the speaker's rough figures given live in class, not precise ephemeris data.</p>
+</section>
+
+<section id="signs">
+<h2>3. The twelve signs and who rules them <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2691s">00:44:51</a></h2>
+<p class="sub2">The speaker walks the zodiac in order and gives each sign a owner among the planets, using his own extended "natural zodiac" that includes Indra, Varuna and Yama alongside the classical seven. This is the same ownership wheel used elsewhere on this site (see the Ketu notes), given here in the speaker's own words and imagery.</p>
+<figure class="dg"><svg viewBox="0 0 420 318" role="img" aria-label="Grid of the 12 zodiac signs numbered 1 to 12 with their ruling planet"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" class="ahp"/></marker></defs><rect x="6" y="6" width="132" height="70" rx="10" class="n"/><text x="72.0" y="29.0" text-anchor="middle"><tspan x="72.0" dy="0">1</tspan><tspan x="72.0" dy="17">Aries</tspan><tspan x="72.0" dy="17">Mars</tspan></text><rect x="144" y="6" width="132" height="70" rx="10" class="n"/><text x="210.0" y="29.0" text-anchor="middle"><tspan x="210.0" dy="0">2</tspan><tspan x="210.0" dy="17">Taurus</tspan><tspan x="210.0" dy="17">Venus</tspan></text><rect x="282" y="6" width="132" height="70" rx="10" class="n"/><text x="348.0" y="29.0" text-anchor="middle"><tspan x="348.0" dy="0">3</tspan><tspan x="348.0" dy="17">Gemini</tspan><tspan x="348.0" dy="17">Mercury</tspan></text><rect x="6" y="84" width="132" height="70" rx="10" class="n"/><text x="72.0" y="107.0" text-anchor="middle"><tspan x="72.0" dy="0">4</tspan><tspan x="72.0" dy="17">Cancer</tspan><tspan x="72.0" dy="17">Moon</tspan></text><rect x="144" y="84" width="132" height="70" rx="10" class="n"/><text x="210.0" y="107.0" text-anchor="middle"><tspan x="210.0" dy="0">5</tspan><tspan x="210.0" dy="17">Leo</tspan><tspan x="210.0" dy="17">Sun</tspan></text><rect x="282" y="84" width="132" height="70" rx="10" class="n"/><text x="348.0" y="107.0" text-anchor="middle"><tspan x="348.0" dy="0">6</tspan><tspan x="348.0" dy="17">Virgo</tspan><tspan x="348.0" dy="17">Rahu</tspan></text><rect x="6" y="162" width="132" height="70" rx="10" class="n"/><text x="72.0" y="185.0" text-anchor="middle"><tspan x="72.0" dy="0">7</tspan><tspan x="72.0" dy="17">Libra</tspan><tspan x="72.0" dy="17">Varuna</tspan></text><rect x="144" y="162" width="132" height="70" rx="10" class="n"/><text x="210.0" y="185.0" text-anchor="middle"><tspan x="210.0" dy="0">8</tspan><tspan x="210.0" dy="17">Scorpio</tspan><tspan x="210.0" dy="17">Indra</tspan></text><rect x="282" y="162" width="132" height="70" rx="10" class="n"/><text x="348.0" y="185.0" text-anchor="middle"><tspan x="348.0" dy="0">9</tspan><tspan x="348.0" dy="17">Sagittarius</tspan><tspan x="348.0" dy="17">Jupiter</tspan></text><rect x="6" y="240" width="132" height="70" rx="10" class="n"/><text x="72.0" y="263.0" text-anchor="middle"><tspan x="72.0" dy="0">10</tspan><tspan x="72.0" dy="17">Capricorn</tspan><tspan x="72.0" dy="17">Saturn</tspan></text><rect x="144" y="240" width="132" height="70" rx="10" class="n"/><text x="210.0" y="263.0" text-anchor="middle"><tspan x="210.0" dy="0">11</tspan><tspan x="210.0" dy="17">Aquarius</tspan><tspan x="210.0" dy="17">Yama</tspan></text><rect x="282" y="240" width="132" height="70" rx="10" class="n"/><text x="348.0" y="263.0" text-anchor="middle"><tspan x="348.0" dy="0">12</tspan><tspan x="348.0" dy="17">Pisces</tspan><tspan x="348.0" dy="17">Ketu</tspan></text></svg><figcaption>The speaker&#x27;s natural zodiac: each sign in order with the planet he gives as its ruler.</figcaption></figure><div class="tablewrap"><table>
+<tr><th>#</th><th>Sign</th><th>Owner</th><th>Image or story given</th></tr>
+<tr><td>1</td><td>Aries (Mesh)</td><td>Mars</td><td>A ram: small but strong enough to headbutt a bull. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2799s">00:46:39</a></td></tr>
+<tr><td>2</td><td>Taurus (Vrishabh)</td><td>Venus</td><td>Shiva's bull Nandi, one leg always ready, patiently waiting; wherever it is fixed, it stays fixed. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2863s">00:47:43</a></td></tr>
+<tr><td>3</td><td>Gemini (Mithun)</td><td>Mercury</td><td>The twins: two things moving together. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2832s">00:47:12</a></td></tr>
+<tr><td>4</td><td>Cancer (Kark)</td><td>Moon</td><td>A crab: the most protective caretaker in the animal kingdom, ready to fight and even die defending its family, which the speaker compares to a mother. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2736s">00:45:36</a></td></tr>
+<tr><td>5</td><td>Leo (Simha)</td><td>Sun</td><td>A lion: the biggest heart, a king. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2736s">00:45:36</a></td></tr>
+<tr><td>6</td><td>Virgo (Kanya)</td><td>Rahu</td><td>A maiden, linked to Draupadi: beauty, intellect and strategy, but "only a head", no body of its own, which the speaker says is why he reads a woman's helplessness as natural to this sign's ruler. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2956s">00:49:16</a></td></tr>
+<tr><td>7</td><td>Libra (Tula)</td><td>Varuna</td><td>A balance scale: whatever you tip one way must tip back, which the speaker ties to grace (kripa) and to the ocean. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3081s">00:51:21</a></td></tr>
+<tr><td>8</td><td>Scorpio (Vrishchik)</td><td>Indra</td><td>A scorpion: the most secretive sign, linked to the anus as a hidden place and to the in-laws' house, whose matters should stay private. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2926s">00:48:46</a></td></tr>
+<tr><td>9</td><td>Sagittarius (Dhanu)</td><td>Jupiter</td><td>A running horse firing an arrow in flight: sharp enough to hit a moving target. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2863s">00:47:43</a></td></tr>
+<tr><td>10</td><td>Capricorn (Makar)</td><td>Saturn</td><td>Very social. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2896s">00:48:16</a></td></tr>
+<tr><td>11</td><td>Aquarius (Kumbh)</td><td>Yama</td><td>A water-pot, pouring life out to everyone, mixing death and a full life together. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3175s">00:52:55</a></td></tr>
+<tr><td>12</td><td>Pisces (Meen)</td><td>Ketu</td><td>Two fish circling each other, yin inside yang; the deity of pleasure and moksha, linked in the speaker's telling to dog-headed guardians said to lead souls to the gate of the afterlife, with an aside about similar dog-headed figures at Egyptian sites. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2987s">00:49:47</a></td></tr>
+</table></div>
+<p class="op">The Egyptian dog-headed guardian comparison is the speaker's own aside, not a claim about Jyotish itself.</p>
+</section>
+<section id="ownhouse">
+<h2>4. Own house, friend's house, enemy's house: the rule behind every placement <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3398s">00:56:38</a></h2>
+<div class="lead"><p>Before reading any planet sign by sign, the speaker lays out one rule he uses for all of them: a planet in its own sign is comfortable and gives its best result, in a friend's sign it can give an even better result than at home, and in the sign directly opposite its own (its enemy's house) it gives its worst result. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3398s">00:56:38</a></p></div>
+<div class="three">
+<figure class="dg"><svg viewBox="0 0 420 158" role="img" aria-label="Flowchart: own sign is strong, a friendly sign can be even better, the opposite sign is the weakest"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" class="ahp"/></marker></defs><rect x="110" y="8" width="200" height="44" rx="10" class="b"/><text x="210.0" y="26.5" text-anchor="middle"><tspan x="210.0" dy="0">A planet sits</tspan><tspan x="210.0" dy="17">in a sign</tspan></text><line x1="140" y1="52" x2="70" y2="90" class="ln" marker-end="url(#ah)"/><line x1="210" y1="52" x2="210" y2="90" class="ln" marker-end="url(#ah)"/><line x1="280" y1="52" x2="350" y2="90" class="ln" marker-end="url(#ah)"/><text x="80" y="80" text-anchor="end" class="lb">own sign</text><text x="210" y="80" text-anchor="middle" class="lb">friend&#x27;s sign</text><text x="330" y="80" text-anchor="start" class="lb">opposite sign</text><rect x="5" y="90" width="130" height="60" rx="10" class="n"/><text x="70.0" y="116.5" text-anchor="middle"><tspan x="70.0" dy="0">Comfortable,</tspan><tspan x="70.0" dy="17">strong result</tspan></text><rect x="145" y="90" width="130" height="60" rx="10" class="g"/><text x="210.0" y="116.5" text-anchor="middle"><tspan x="210.0" dy="0">Can beat the</tspan><tspan x="210.0" dy="17">own-sign result</tspan></text><rect x="285" y="90" width="130" height="60" rx="10" class="r"/><text x="350.0" y="116.5" text-anchor="middle"><tspan x="350.0" dy="0">Weakest or most</tspan><tspan x="350.0" dy="17">damaging result</tspan></text></svg><figcaption>The speaker&#x27;s rule of thumb for reading any planet in any sign.</figcaption></figure><div class="card prob"><h4>Own house</h4><p>Like being in your own home: the planet behaves well and gives a strong, reliable version of its nature. Example given: the Sun in Leo (its own sign) is at its best. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3430s">00:57:10</a></p></div>
+<div class="card fix"><h4>Friend's house</h4><p>Like a well-off in-law's house where you are pampered: can outperform even the planet's own sign. Example given: the Moon in Taurus, Venus's sign, which the speaker calls a near-unbeatable placement and compares to Krishna's chart. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3462s">00:57:42</a></p></div>
+<div class="card why"><h4>Enemy's house (the opposite sign)</h4><p>The sign directly across the wheel from a planet's own sign is read as its weakest or most damaging placement, because two signs that face each other are natural rivals. Example given: Ram's chart has an exalted Saturn in the 4th house and an exalted Sun in the 10th house, two signs that face each other, which the speaker reads as Ram's single biggest chart weakness despite both planets being individually strong. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3052s">00:50:52</a></p></div>
+</div>
+<p class="op">Reading an opposite sign as automatically "worst" for every planet is the speaker's simplified teaching rule for this class, not the only factor classical Jyotish uses for strength.</p>
+</section>
+
+<section id="sun">
+<h2>5. The Sun sign by sign: light and heat <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=4753s">01:19:13</a></h2>
+<p class="sub2">The speaker's base image: the Sun is light and heat. He reads each sign by asking what light and heat do to that sign's own nature (water, air, fire, and so on).</p>
+<div class="tablewrap"><table>
+<tr><th>Sign (#)</th><th>Result</th><th>Why, in the speaker's image</th></tr>
+<tr><td>Leo (5), own sign</td><td>Best</td><td>A king at home. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3430s">00:57:10</a></td></tr>
+<tr><td>Aries (1)</td><td>Very good</td><td>Fire plus fire; a rocket. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5005s">01:23:25</a></td></tr>
+<tr><td>Gemini (3)</td><td>Very good</td><td>Light and warmth in air: a pleasant warm breeze. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5005s">01:23:25</a></td></tr>
+<tr><td>Sagittarius (9)</td><td>Very good</td><td>Light added to knowledge: the brightest kind of insight. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5037s">01:23:57</a></td></tr>
+<tr><td>Cancer (4)</td><td>Average</td><td>Light in water neither destroys nor especially blesses; no strong yes or no on something like having children. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=4975s">01:22:55</a></td></tr>
+<tr><td>Scorpio (8)</td><td>Very good, with a catch</td><td>A king meeting a king (Indra's court); a flamboyant, hedonistic kind of king, memorable and a little absent-minded. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5542s">01:32:22</a></td></tr>
+<tr><td>Aquarius (11)</td><td>Average</td><td>No special effect either way in the house of death. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5606s">01:33:26</a></td></tr>
+<tr><td>Libra (7)</td><td>Worst</td><td>The Sun dries out the ocean (Varuna): grace is cut off entirely, like an angry father whose blessing stops. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5542s">01:32:22</a></td></tr>
+<tr><td>Taurus (2)</td><td>Bad, slow decline</td><td>Light slowly dries out Venus's reserves: the speaker links this to divorce, financial ruin and harm to a child, over time. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5070s">01:24:30</a></td></tr>
+<tr><td>Capricorn (10)</td><td>Dimmed, not destroyed</td><td>Light does not vanish in darkness, but it is reduced; the speaker adds that a badly placed, afflicted Saturn here alongside a strong Sun can show up as a father-son conflict (his vivid example: a drunk father beating a son who has grown resentful). <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5196s">01:26:36</a></td></tr>
+<tr><td>Virgo (6)</td><td>Bad</td><td>Great helplessness; linked to speech and confidence trouble. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5133s">01:25:33</a></td></tr>
+<tr><td>Pisces (12)</td><td>Dim, low mood</td><td>Clouds block the light: little joy reaches the person. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5133s">01:25:33</a></td></tr>
+</table></div>
+</section>
+
+<section id="moon">
+<h2>6. The Moon sign by sign: the state of the mind <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5636s">01:33:56</a></h2>
+<p class="sub2">The speaker's base image here: the Moon is water, and water is the mind. He reads each sign by what happens to water in that sign's element.</p>
+<div class="tablewrap"><table>
+<tr><th>Sign (#)</th><th>Result</th><th>Why, in the speaker's image</th></tr>
+<tr><td>Cancer (4), own sign</td><td>Very good</td><td>Water at home.</td></tr>
+<tr><td>Taurus (2)</td><td>Best of all</td><td>Water meets milk and becomes curd, with beneficial bacteria; the speaker calls this placement unbeatable and gives Krishna's chart as the example. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=3588s">00:59:48</a></td></tr>
+<tr><td>Sagittarius (9)</td><td>Best</td><td>Water plus knowledge (ghee) is described as superb, needing no extra mixing. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5667s">01:34:27</a></td></tr>
+<tr><td>Libra (7)</td><td>Very good</td><td>Water from the ocean itself: the speaker calls this placement extremely good. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5823s">01:37:03</a></td></tr>
+<tr><td>Leo (5)</td><td>Average</td><td>Light and water: no strong harm or blessing. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5636s">01:33:56</a></td></tr>
+<tr><td>Capricorn (10)</td><td>Not good, not bad</td><td>Oil coats water: a mild dulling effect, "not good" rather than negative. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5700s">01:35:00</a></td></tr>
+<tr><td>Virgo (6)</td><td>Bad</td><td>A restless, stuck, suffocated mind. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5730s">01:35:30</a></td></tr>
+<tr><td>Pisces (12)</td><td>Bad</td><td>Clouded, hazy, a sense of being lost. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5730s">01:35:30</a></td></tr>
+<tr><td>Aries (1)</td><td>Bad</td><td>Fire evaporates water: the Moon is destroyed. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5667s">01:34:27</a></td></tr>
+<tr><td>Gemini (3)</td><td>Not very good</td><td>Water loses itself in air, worn thin, anxious. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5667s">01:34:27</a></td></tr>
+<tr><td>Scorpio (8)</td><td>Worst</td><td>Only parties and hangovers, purity destroyed; the speaker links this placement to household dampness, leaking taps, skin allergies, dry eyes and a non-functioning appendix (the speaker calls the appendix a vestigial organ that still matters). <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5730s">01:35:30</a></td></tr>
+<tr><td>Aquarius (11)</td><td>Worst in a different way</td><td>Water freezes to ice: the mind itself freezes. The speaker ties this to the third eye and brain being mostly water (he gives 90 percent and 72 percent) and says fear is what first shuts the third eye, cutting off intuition. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5885s">01:38:05</a></td></tr>
+</table></div>
+<div class="box">
+<h4>If the mind "freezes": two ways out, in the speaker's words <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5918s">01:38:38</a></h4>
+<ul>
+<li>Go to the guru's path (what he elsewhere calls the "6 percent, 12-times-faster" route), or surrender fully to the divine (the "4 percent, direct" route). Either way, the aim is to unfreeze the third eye so intuition can return. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5918s">01:38:38</a></li>
+<li>For memory specifically he mentions brahmi and ashwagandha by name as things people take, and blames poor memory on slowed blood circulation, which he also pins on an afflicted Pluto (Yama). No dose or regimen is given, and this is his own suggestion, not medical advice. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7333s">02:02:13</a></li>
+</ul>
+</div>
+<p class="op">The appendix, memory and circulation claims in this section are the speaker's own framework, not medical fact. Nothing here is medical advice.</p>
+</section>
+<section id="mars">
+<h2>7. Mars sign by sign: fire, and what it burns or lights <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5918s">01:38:38</a></h2>
+<p class="sub2">The speaker's base image: Mars is fire (agni). He reads each sign by what fire does there, and calls Mars the planet that rewards doing less work for more result when it is well placed.</p>
+<div class="tablewrap"><table>
+<tr><th>Sign (#)</th><th>Result</th><th>Why, in the speaker's image</th></tr>
+<tr><td>Capricorn (10)</td><td>Best of all</td><td>Fire reaching oil or petrol: an even better result than Mars gets in its own sign. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5918s">01:38:38</a></td></tr>
+<tr><td>Sagittarius (9)</td><td>Very good</td><td>Fire boiling knowledge further: excellent. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6102s">01:41:42</a></td></tr>
+<tr><td>Aquarius (11)</td><td>Best, in a different sense</td><td>Fire melts ice, which the speaker reads as Mars being able to defeat death itself, tying it to the Hanuman stories of untying the Nagpaash and fetching the Sanjeevani booti. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6324s">01:45:24</a></td></tr>
+<tr><td>Aries (1) and Scorpio (8)</td><td>Good (own and co-owned signs)</td><td>At home; Scorpio also brings Mars welcome in Indra's court. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6575s">01:49:35</a></td></tr>
+<tr><td>Gemini (3)</td><td>Not negative</td><td>Fire warms air; no harm done. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6102s">01:41:42</a></td></tr>
+<tr><td>Pisces (12)</td><td>Best ally, not a threat</td><td>Smoke always follows fire, so Mars calls Ketu its truest friend here. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6385s">01:46:25</a></td></tr>
+<tr><td>Virgo (6)</td><td>Good, but a tamer</td><td>Mars is the one planet strong enough to control Rahu's chaos. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6385s">01:46:25</a></td></tr>
+<tr><td>Taurus (2)</td><td>Risky, wealth with a cost</td><td>Can make a person very wealthy, often through debt, but also raises sexual energy enough to push someone toward infidelity, which the speaker describes as happening almost against the person's own will. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6102s">01:41:42</a></td></tr>
+<tr><td>Libra (7)</td><td>Underperforms, not destroyed</td><td>Fire cannot do much to the ocean, so Mars does not fight here, the way Hanuman did not fight Surasa but simply slipped past her. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6606s">01:50:06</a></td></tr>
+<tr><td>Cancer (4)</td><td>Debilitated, worst</td><td>Fire dries out water. The speaker says this placement, or a hostile Mars aspect on the 4th, is linked to urinary disorders and ovarian cysts in women, and to pregnancy difficulty; a Saturn-caused version gives at least one failed attempt, a Ketu-caused version at least three, when IUI or IVF is tried. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=5979s">01:39:39</a></td></tr>
+</table></div>
+<div class="box warn">
+<p class="op">The fertility, ovarian-cyst and IVF-failure claims are the speaker's personal framework stated as fact. They are not medical advice, and nothing here gives or implies a treatment plan. Anyone facing these issues should see a qualified doctor.</p>
+</div>
+<p>Mars rules the navel. A strong, well-placed Mars is said to keep digestion steady and to bring more friends than even a good relationship with one's brothers would, which the speaker ties to Hanuman's friendships. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6385s">01:46:25</a></p>
+</section>
+
+<section id="mercjupven">
+<h2>8. Mercury, Jupiter and Venus: quick notes and their remedies <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6637s">01:50:37</a></h2>
+<div class="three">
+<div class="card prob"><h4>Mercury's one weak spot</h4><p>Mercury is called a neutral ("napunsak") planet, good in almost every sign, and is said to be debilitated only in Pisces (12), where it turns into a poisonous cloud, like carbon monoxide from a lit stove: speech turns unclear or harsh. If Ketu and Jupiter (which the speaker says both work on behalf of the 12th house) are otherwise fine in the chart, even this debilitated Mercury can still bring wealth, often through shady or indirect means such as MLM schemes or being the real power behind someone else's public position. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6669s">01:51:09</a></p></div>
+<div class="card why"><h4>Mercury's remedy</h4><p>Never disrespect a sister, aunt, daughter or sister-in-law (behan, bua, beti, sali): the speaker says they can bring a false court case on you without your noticing how it happened, and this is explicitly pointed at the pattern of false cases filed against men. Also avoid hard bargaining with a doctor or guru over money, and keep your speech calm and silent rather than gossiping or cursing. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6857s">01:54:17</a></p></div>
+<div class="card fix"><h4>Serve the "hijde" community</h4><p>Regular, ongoing giving to the hijda (third-gender) community is named as a direct Mercury remedy, alongside protecting your case in court. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6921s">01:55:21</a></p></div>
+</div>
+<div class="three">
+<div class="card prob"><h4>Jupiter and the liver</h4><p>Jupiter is linked to the liver, which the speaker calls the seat of the soul's fire; a disturbed Jupiter shows up as liver trouble (he names fatty liver), and he advises treating the liver before the heart when cholesterol is the real root cause. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=1793s">00:29:53</a></p></div>
+<div class="card why"><h4>The guru and the bitter gourd</h4><p>His teaching story: disciples ask their guru's blessing for a pilgrimage to gain wisdom. The guru sends a bitter gourd (karela) along with them and asks for it back afterward. They return transformed by the trip, but the gourd is still bitter. The guru's point: a thing's nature does not change just by being carried to a holy place; only real inner change, which is Jupiter's gift, actually works. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2015s">00:33:35</a></p></div>
+<div class="card fix"><h4>Saturn's yellow oil</h4><p>Saturn is said to obstruct Jupiter's wisdom. The remedy given is offering yellow mustard oil to Saturn, reasoned through a chain of symbols: Jupiter's colour is yellow, and Mars (fire) purifies Saturn (metal), so burning oil (Mars plus oil) is used to clear the obstruction Saturn places on Jupiter. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2175s">00:36:15</a></p></div>
+</div>
+<div class="three">
+<div class="card prob"><h4>When Lakshmi "keeps her veil on"</h4><p>Answering why money will not come despite effort: the speaker says Venus (Lakshmi) is a woman in this image, and a veiled Lakshmi means the household is treating the actual women in it with too much control and conflict for her to want to stay. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7494s">02:04:54</a></p></div>
+<div class="card why"><h4>What triggers it</h4><p>Constant fighting, giving orders instead of speaking sweetly, an unclean environment (dusty mirrors, a dirty neighbourhood) and not giving a woman at home the freedom to make her own small choices. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7556s">02:05:56</a></p></div>
+<div class="card fix"><h4>The fix</h4><p>Speak sweetly, let her choose things for herself, keep household mirrors and the surrounding area clean, and serve the cow (which the speaker calls a complete form of Venus). <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7588s">02:06:28</a></p></div>
+</div>
+</section>
+<section id="donation">
+<h2>9. Donation rules: match the planet, match the place <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7774s">02:09:34</a></h2>
+<div class="lead"><p>A student asks: there is a belief that a planet's effect in a house is weakened if you donate its items at a temple or gurudwara, especially for a planet that is already doing well there. The speaker calls this a widespread misunderstanding. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7774s">02:09:34</a></p></div>
+<ul>
+<li>A good (well-placed) planet's items are donated, but at a <b>good</b> place, which adds to your fortune rather than weakening it. A good planet's items are not given away in a needy or difficult context. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7774s">02:09:34</a></li>
+<li>A troubled (badly placed) planet's items are given in a needy context, not at a celebratory or sacred one. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7774s">02:09:34</a></li>
+</ul>
+<figure class="dg"><svg viewBox="0 0 420 222" role="img" aria-label="Decision tree for matching a donation to a house and its planet"><defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" class="ahp"/></marker></defs><rect x="90" y="8" width="240" height="40" rx="10" class="b"/><text x="210.0" y="24.5" text-anchor="middle"><tspan x="210.0" dy="0">Which planet rules this</tspan><tspan x="210.0" dy="17">house in your chart?</tspan></text><line x1="210" y1="48" x2="210" y2="66" class="ln" marker-end="url(#ah)"/><rect x="60" y="66" width="300" height="44" rx="10" class="b"/><text x="210.0" y="84.5" text-anchor="middle"><tspan x="210.0" dy="0">Is it well placed there</tspan><tspan x="210.0" dy="17">(own, friendly, exalted)?</tspan></text><line x1="130" y1="110" x2="90" y2="140" class="ln" marker-end="url(#ah)"/><line x1="290" y1="110" x2="320" y2="140" class="ln" marker-end="url(#ah)"/><text x="100" y="132" text-anchor="end" class="lb">yes</text><text x="310" y="132" text-anchor="start" class="lb">no</text><rect x="10" y="140" width="180" height="70" rx="10" class="g"/><text x="100.0" y="154.5" text-anchor="middle"><tspan x="100.0" dy="0">Give that planet&#x27;s item</tspan><tspan x="100.0" dy="17">at a sacred place</tspan><tspan x="100.0" dy="17">(temple, gurudwara)</tspan><tspan x="100.0" dy="17">Fortune multiplies</tspan></text><rect x="230" y="140" width="180" height="70" rx="10" class="r"/><text x="320.0" y="154.5" text-anchor="middle"><tspan x="320.0" dy="0">Do not improvise.</tspan><tspan x="320.0" dy="17">The same item given</tspan><tspan x="320.0" dy="17">the wrong way can</tspan><tspan x="320.0" dy="17">make things worse</tspan></text></svg><figcaption>The speaker&#x27;s donation rule: a good placement is strengthened by giving at a sacred place, a bad placement needs a proper reading first, not a guess.</figcaption></figure><h3>Two worked examples from the talk <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7805s">02:10:05</a></h3>
+<div class="three">
+<div class="card fix"><h4>A well-placed Saturn in the 9th house</h4><p>The more Saturn-ruled items you give (serving others, cleaning shoes at a gurudwara, giving away iron or kerosene), the more fortune grows. His example: a wealthy man stepping out of a Mercedes to personally clean shoes at a gurudwara, and prospering further for it, because he "activated" a planet that was already working for him. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7836s">02:10:36</a></p></div>
+<div class="card why"><h4>A well-placed Mars in the same slot</h4><p>Give sweet, red items instead, such as halwa or gulab jamun, matching Mars's own colour and nature. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7866s">02:11:06</a></p></div>
+<div class="card prob"><h4>A debilitated Saturn linked to the 12th house</h4><p>Here the speaker gives a warning case, not a remedy: handing out Saturn's own items (shoes, iron) to strangers in this specific bad configuration is described as making things worse rather than better, bringing on headaches, body pain, domestic quarrels and hospital bills. A debilitated Jupiter paired with worshipping a guru's photo or a scripture in the wrong configuration gets the same warning. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7897s">02:11:37</a></p></div>
+</div>
+<p class="op">The speaker calls this topic "very deep" and says it deserves its own full class. These worked examples show that the same donation can help or harm depending on exactly how a planet sits in an individual chart, so this is not a safe thing to copy without checking your own chart first.</p>
+</section>
+
+<section id="gemstones">
+<h2>10. Gemstones: why this is not a simple "wear this stone" answer <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7990s">02:13:10</a></h2>
+<div class="three">
+<div class="card prob"><h4>The question</h4><p>If a retrograde planet is in, or linked to, the 6th, 8th or 12th house, should a gemstone be worn? The speaker's answer: not automatically, and retrograde motion is only one of several things that can cause the kind of affliction a gemstone might address. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7990s">02:13:10</a></p></div>
+<div class="card why"><h4>Why it gets complicated</h4><p>The same sign can appear more than once as "active" across a chart, which changes where a stone should even be worn (which finger, or as a pendant). The stone's exact shade (he gives deep green versus light green emerald as an example) and even its country of origin (Zambian versus Colombian emerald) can matter for a specific chart. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8053s">02:14:13</a></p></div>
+<div class="card fix"><h4>His caution about dosage</h4><p>He compares this to a doctor prescribing an exact, specific dose: too little may do nothing, too much can actively harm. His own example is a case where a much higher weight of stone than advised was worn and, in his telling, badly backfired. He gives no stone weight as general advice here, only this warning. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8118s">02:15:18</a></p></div>
+</div>
+<p class="op">Nothing here should be read as a specific gemstone recommendation. The speaker himself says this requires chart-specific, in-person guidance, and this site's standing caution applies: decide any stone, its weight and its finger placement with a qualified astrologer who has read your full chart.</p>
+</section>
+
+<section id="qa">
+<h2>11. Rapid-fire questions <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7679s">02:07:59</a></h2>
+<h3>How do you know which astrologer to trust? <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7679s">02:07:59</a></h3>
+<p>Do not announce your question first. Let the astrologer read the chart and tell you things unprompted; if they can do that convincingly, "wow" you, they have shown their skill. He applies the same test to choosing a guru: question them, test them, and once you run out of questions for someone, that is when they have earned the title. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7679s">02:07:59</a></p>
+<h3>Can an AI like ChatGPT predict a horoscope as well as an astrologer? <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8182s">02:16:22</a></h3>
+<p>Both an astrologer and an AI work from data, so future versions may get much better at this. But the speaker separates intelligence from consciousness: he says consciousness evolves in living beings and cannot yet be "downloaded" into a machine, referencing science-fiction films about machine consciousness as a cultural touchpoint, not evidence. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8182s">02:16:22</a></p>
+<h3>Does fate (prarabdh) work differently for someone of another religion? <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8306s">02:18:26</a></h3>
+<p>No. The body runs the same way regardless of religion or upbringing: the heart beats, the lungs work, and basic human expressions (a smile, anger) look the same across cultures, which he illustrates by saying dogs everywhere bark the same way. Cultural labels are, in his words, a layer people add on top, not a different underlying mechanism. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8306s">02:18:26</a></p>
+<p class="op">This answer, and the aside about Sanskrit being an efficient language for computers to parse, are the speaker's own opinions on religion and language, not astrology.</p>
+<h3>Is it enough to just consider someone your guru, or do you need formal initiation? <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8463s">02:21:03</a></h3>
+<p>The speaker shares his own story: his chart, in his reading, gives him knowledge without needing a guru. Gurus he did approach wanted fees and an oath of secrecy, which he calls a business contract rather than a guru-disciple relationship, and he walked away. His advice: focus on becoming a good disciple first rather than rushing to anoint a guru; a genuine guru, in his view, does not take money for knowledge and will recognise a sincere student. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8495s">02:21:35</a></p>
+<h3>What if someone gifts you an item tied to a planet that is negative in your chart? <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8779s">02:26:19</a></h3>
+<p>Pass it on rather than keeping it: give it to someone else, ideally to a saint or holy figure who will distribute it further. He describes this as a multiplying effect, the same logic behind a gurudwara's donation box. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8779s">02:26:19</a></p>
+<h3>Is Ketu in the 12th house the same as Ketu in the 12th sign (Pisces)? <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8871s">02:27:51</a></h3>
+<p>No, and this is a common confusion. The fruit depends on which <b>sign</b> Ketu is actually sitting in, not simply which house number it occupies, because a real birth chart lets house and sign drift apart. Only in the idealised "Kaal Purush" chart (the cosmic man's chart used in texts like Lal Kitab) are house number and sign number locked together, with Ketu's own house fixed at the 12th. <a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8871s">02:27:51</a></p>
+</section>
+
+<section id="cheat">
+<h2>12. Remedy cheat sheet from this class</h2>
+<p class="sub2">Every concrete remedy from this talk in one place. Check it against your own chart before acting on it; several of these are explicitly chart-dependent.</p>
+<div class="tablewrap"><table>
+<tr><th>Situation</th><th>Remedy or note given</th><th>Video</th></tr>
+<tr><td>Jupiter obstructed by Saturn, slow wisdom</td><td>Offer yellow mustard oil to Saturn.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=2175s">00:36:15</a></td></tr>
+<tr><td>Weak vitality, afflicted Mercury, false-case risk</td><td>Never disrespect a sister, aunt, daughter or sister-in-law; serve the hijda community; do not haggle hard with a doctor or guru.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=6857s">01:54:17</a></td></tr>
+<tr><td>Money will not come, "Lakshmi keeps her veil"</td><td>Speak sweetly, give women at home real choices, keep mirrors and surroundings clean, serve a cow.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7494s">02:04:54</a></td></tr>
+<tr><td>Well-placed Saturn in a house</td><td>Serve others, clean shoes at a gurudwara, give iron or kerosene, at a sacred place.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7836s">02:10:36</a></td></tr>
+<tr><td>Well-placed Mars in a house</td><td>Give sweet, red food such as halwa or gulab jamun.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7866s">02:11:06</a></td></tr>
+<tr><td>A badly placed (debilitated) planet</td><td>Do not improvise a donation or worship remedy; get a proper chart reading first.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7897s">02:11:37</a></td></tr>
+<tr><td>Wishing to receive a gift tied to your own weak planet</td><td>Pass it on to someone else, ideally through a saint or holy place, instead of keeping it.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8779s">02:26:19</a></td></tr>
+<tr><td>Poor memory, slow circulation</td><td>The speaker names brahmi and ashwagandha; no dose given, and this is not medical advice.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=7333s">02:02:13</a></td></tr>
+<tr><td>Choosing a gemstone</td><td>Do not self-prescribe; weight, finger and origin are chart-specific and get this wrong both ways.</td><td><a class="ts" href="https://www.youtube.com/watch?v=Ronux-Egaww&amp;t=8118s">02:15:18</a></td></tr>
+</table></div>
+</section>
+
+<section id="about">
+<h2>About these notes</h2>
+<p>Source video: <a href="https://www.youtube.com/watch?v=Ronux-Egaww">Jyotish Vidya Ep. 8 (Part 1), Planets and Rashi, Brajesh Gautam</a>. Notes are written from the full transcript, section by section, and timestamps link to the exact moment in the video. This class continues directly into Part 2, recorded later and covered in a separate set of notes on this site.</p>
+<p><a href="../index.html">All notes</a></p>
+</section>
+
+
+
+</main>
+</body>
+</html>
