@@ -1,0 +1,62 @@
+{
+ "vid": "mOGhj4fHe5k",
+ "title": "Studies and Students, and Remembering Vaastu Devtas",
+ "len": "138",
+ "sub": "Complete notes on Jyotish Vidya Ep. 11 by Brajesh Gautam, The Anchor Of Life. Why a bright child's marks can fall, why not to punish a struggling child, exam-day colour and thread remedies, a sketch of the vastu deities, and why no single chart is read alone.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 11, Studies and Students and Remembering Vaastu Devtas by Brajesh Gautam: planetary causes of study trouble, exam-day remedies, picking the right deity, a vastu overview and a remedy cheat sheet, with video timestamps.",
+ "sections_dir": "ep11_sections",
+ "diagrams_module": "ep11_diagrams.py",
+ "out": "../docs/notes/studies-and-vaastu-devtas-jyotish-vidya-ep11.html",
+ "points": [
+  [
+   "Marks can fall after age 10 for planetary reasons.",
+   "A combust or retrograde Mercury or Jupiter is his usual explanation, not laziness."
+  ],
+  [
+   "Do not punish a struggling child.",
+   "A rude tone, refusal to listen, mood swings or superstition are read as planetary faults, not character."
+  ],
+  [
+   "A failed exam can be the cheaper outcome.",
+   "A lost fee or a repeated year is treated as a cheaper payment than a health problem later."
+  ],
+  [
+   "Match the deity to the chart.",
+   "The commonly named deity is not always the right one for a specific child's placement."
+  ],
+  [
+   "Exam-day colours and threads are specific, not universal.",
+   "What helps one child's chart can hurt another's; this page keeps his examples as illustrations only."
+  ],
+  [
+   "No single chart is read alone.",
+   "Near a sign's edge, the chalit, nirayana and KP charts can each shift a planet into a different house."
+  ],
+  [
+   "Gemstones are a one-time investment.",
+   "A well-fitted stone is treated as good for about a hundred years, not replaced every few."
+  ]
+ ],
+ "puts": [
+  [
+   "<ul>\n<li><b>Brahma, the centre.</b>",
+   "vastugrid"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>The pattern</h4>",
+   "studyhouses"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>His example</h4>",
+   "failgood"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Afflicted planet on the study house</th>",
+   "examcolor"
+  ],
+  [
+   "<ul>\n<li>With an ascendant only a few degrees",
+   "multichart"
+  ]
+ ]
+}
