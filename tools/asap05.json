@@ -1,0 +1,62 @@
+{
+ "vid": "uqY50BoDoHE",
+ "title": "Mercury, Intellect and Balance",
+ "len": "146",
+ "sub": "Complete notes on ASAP Ep. 5 by Brajesh Gautam, The Anchor Of Life. Mercury as the neuter planet of speech and trade, its mythology, its link to Venus and Rahu, and its remedies, with video timestamps.",
+ "desc": "Complete notes on ASAP Ep. 5, Planet Mercury by Brajesh Gautam: the neuter planet of intellect, speech and trade, its mythology, house-by-house effects, its balance with Venus, and remedies, with video timestamps.",
+ "sections_dir": "asap05_sections",
+ "diagrams_module": "asap05_diagrams.py",
+ "out": "../docs/notes/mercury-asap-ep5.html",
+ "points": [
+  [
+   "Mercury is a pipe, not a person.",
+   "It carries truth, lies, poison or nectar through your throat without judgment. What matters is only that the word lands clearly."
+  ],
+  [
+   "It is a neuter planet.",
+   "Not male, not female, not good, not bad. In the speaker's own framework this is why it has no fixed loyalty of its own."
+  ],
+  [
+   "Mercury and Rahu exalt each other.",
+   "Mercury does best in Rahu's house (Virgo), and Rahu does best in Mercury's house (Gemini)."
+  ],
+  [
+   "Keep the Mercury-Venus scale level.",
+   "Mercury earns, Venus enjoys. Tip too far either way and the other pan empties out."
+  ],
+  [
+   "Mercury governs teeth, nerves, joints and the small intestine.",
+   "A disturbed Mercury also shows up as paperwork trouble, stammering and muddled speech."
+  ],
+  [
+   "Mercury in the 6th or 12th house is a business warning.",
+   "The speaker calls this combination, in any sign, a reason to stay out of business, lending and speculation."
+  ],
+  [
+   "An emerald is Mercury's main gemstone.",
+   "Green cloth, whole green moong dal and caring for a goat or parrot are his everyday remedies, alongside alum for the evil eye."
+  ]
+ ],
+ "puts": [
+  [
+   "<h3>Mercury has no fixed character",
+   "pipe"
+  ],
+  [
+   "<p>Jupiter (Brihaspati), king of the gods' teachers, is married to Tara.",
+   "birth"
+  ],
+  [
+   "<li>Mercury (the metal, quicksilver) has atomic number 80",
+   "atomic"
+  ],
+  [
+   "<div class=\"card prob\"><h4>Problem</h4><p>A huge house",
+   "scale"
+  ],
+  [
+   "<tr><th>House</th><th>What the speaker says it does</th></tr>",
+   "houses"
+  ]
+ ]
+}
