@@ -1,0 +1,62 @@
+{
+ "vid": "tpHwmqrONHA",
+ "title": "Retrograde Planets and Gemstones",
+ "len": "142",
+ "sub": "Complete notes on Jyotish Vidya Ep. 5 by Brajesh Gautam, The Anchor Of Life. What a retrograde (vakri) planet actually is, why he says to fit its gemstone, leftover-food vibration, spouse gift rules and planet maturity ages.",
+ "desc": "Complete notes on Jyotish Vidya Ep. 5, Retrograde Planet (वक्री गृह) by Brajesh Gautam: what vakri really means, his gemstone rules, jhoota and vibration, spouse gift cautions by house, and a remedy cheat sheet, with video timestamps.",
+ "sections_dir": "ep5_sections",
+ "diagrams_module": "ep5_diagrams.py",
+ "out": "../docs/notes/retrograde-planets-and-gemstones-jyotish-vidya-ep5.html",
+ "points": [
+  [
+   "Comparison switches you retrograde.",
+   "Dwelling on someone else's pace can hand power to your own natal retrograde planet."
+  ],
+  [
+   "Vakri never truly reverses.",
+   "It only looks that way next to something moving faster, like a slower walker in a park."
+  ],
+  [
+   "A retrograde planet needs its own stone.",
+   "His universal law: fit a clean, well-matched gemstone for whichever planet is retrograde at birth."
+  ],
+  [
+   "The stone filters, it does not boost.",
+   "A gem never raises or lowers a planet's power, it only strains how much of it reaches you."
+  ],
+  [
+   "Do not share jhoota.",
+   "Leftover food, drink or clothing is said to carry another person's planetary vibration."
+  ],
+  [
+   "Gifts can switch a house's dosha on.",
+   "What you hand your spouse, by colour and item, is read against the sign sitting in the 7th house."
+  ],
+  [
+   "Each planet matures at its own age.",
+   "Moon at 5 through Ketu at 48; a retrograde dosha is said to start biting only after that age."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>The trigger</h4>",
+   "compare"
+  ],
+  [
+   "<div class=\"three\">\n<div class=\"card prob\"><h4>The picture</h4>",
+   "mona"
+  ],
+  [
+   "<h4>A caution for the 3rd, 6th, 8th and 12th houses",
+   "universal"
+  ],
+  [
+   "<li><b>The stone is a filter, not a booster.</b>",
+   "filter"
+  ],
+  [
+   "<div class=\"tablewrap\"><table>\n<tr><th>Planet</th><th>Matures at</th>",
+   "maturity"
+  ]
+ ]
+}
