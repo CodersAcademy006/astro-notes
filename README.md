@@ -8,7 +8,7 @@ Transcripts and study notes for the YouTube channel
 
 | Path | Contents |
 |------|----------|
-| `transcripts/` | One text file per video, 466 videos in total, about 7.2 million words |
+| `transcripts/` | One text file per video, 469 videos in total, about 7.2 million words |
 | `INDEX.md` | Every video with its length, word count and YouTube link |
 | `index.csv` | Same index as a spreadsheet-friendly file |
 | `docs/` | Published notes site (GitHub Pages) |
@@ -54,6 +54,14 @@ Point-wise study notes are being written video by video. Live so far:
   (full 144 minute talk: Rahu in houses 7 to 12 and with each planet, problems, causes, remedies, and video timestamps)
 - [Ahankar ka Gorakh Dhandha](https://codersacademy006.github.io/astro-notes/notes/ahankar-ka-gorakh-dhandha.html)
   (complete notes that follow the whole talk in order, with every story, example and question kept, in headings, lists and tables, and a note wherever the speaker gives his own opinion)
+- [Ishta Devata and Retrograde Planets, Jyotish Vidya Ep. 4](https://codersacademy006.github.io/astro-notes/notes/ishta-devata-and-retrograde-planets-jyotish-vidya-ep4.html)
+  (the karma story that opens the class, becoming your own Ishta, the sign-to-deity table, Mars and marriage, Sun and kidney stones, with video timestamps)
+- [Planets and Rashi, Part 1, Jyotish Vidya Ep. 8](https://codersacademy006.github.io/astro-notes/notes/planets-and-rashi-jyotish-vidya-ep8-pt1.html)
+  (houses versus signs, planet speeds, Sun, Moon and Mars through the twelve signs, donation rules, gemstone caution, with video timestamps)
+- [Planets and Rashi, Part 2, Jyotish Vidya Ep. 8](https://codersacademy006.github.io/astro-notes/notes/planets-and-rashi-jyotish-vidya-ep8-pt2.html)
+  (Jupiter, Venus, Saturn, Rahu, Ketu and the outer planets sign by sign, neech bhang raj yog, remedies, with video timestamps)
+- [Jyotish: What Astrology Actually Is](https://codersacademy006.github.io/astro-notes/notes/jyotish-foundations-2015.html)
+  (2015 talk: what astrology actually is, the third eye, karma versus destiny, the Bhrigu Samhita, planet by planet effects, daan, dua and dava, with video timestamps)
 
 ## Transcript format
 
