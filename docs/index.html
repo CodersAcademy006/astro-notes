@@ -13,48 +13,70 @@ main{max-width:720px;margin:0 auto;padding:48px 16px 96px}
 h1{font-size:clamp(2rem,5vw,2.8rem);line-height:1.08;letter-spacing:-.025em;margin:0 0 8px}
 p{color:var(--mute);margin:0 0 24px}
 a.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;color:var(--fg);text-decoration:none;margin-bottom:12px}
-a.card b{display:block;font-size:1.05rem}
+a.card b{display:flex;align-items:center;gap:8px;font-size:1.05rem}
 a.card span{color:var(--mute);font-size:.9rem}
 a.card:hover{border-color:var(--accent)}
+.badge{display:inline-block;font-size:.65rem;font-weight:600;letter-spacing:.04em;color:#fff;background:var(--accent);border-radius:6px;padding:2px 7px;line-height:1.4;flex-shrink:0}
+.controls{display:flex;align-items:center;gap:10px;margin:0 0 20px}
+.controls button{font:inherit;font-size:.85rem;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 12px;cursor:pointer}
+.controls button[aria-pressed="true"]{border-color:var(--accent);color:var(--accent)}
 </style>
 </head>
 <body>
 <main>
 <h1>Astro Notes</h1>
 <p>Study notes for The Anchor Of Life With Brajesh Gautam. 32 notes are live.</p>
-<a class="card" href="notes/rahu-and-remedies-jyotish-vidya-ep27.html"><b>Rahu and Its Remedies (Jyotish Vidya Ep. 27)</b><span>Rahu in every house and with every planet, problems, causes and remedies, with video timestamps. 2 hours 24 minutes of talk</span></a>
-<a class="card" href="notes/rahu-and-ketu-jyotish-vidya-ep28.html"><b>Rahu, Ketu and Balance (Jyotish Vidya Ep. 28)</b><span>Rahu and Ketu as one pair, the seesaw, planet self-checks, home vastu, Ketu in every house and remedies, with video timestamps. 2 hours 31 minutes of talk</span></a>
-<a class="card" href="notes/mercury-and-remedies-jyotish-vidya-ep14.html"><b>Mercury and Remedies (Jyotish Vidya Ep. 14)</b><span>Mercury as the child mind, signs and houses, the ear and mantra, emerald, donations, the cash rule and a full remedy sheet, with video timestamps. 2 hours 15 minutes of talk</span></a>
-<a class="card" href="notes/sun-and-remedies-jyotish-vidya-ep15.html"><b>Sun and Remedies (Jyotish Vidya Ep. 15)</b><span>The Sun as soul and aura, heartbreak and house results, the Sun by sign and house, wheat, salt and cow remedies, ruby and the dawn water offering, with video timestamps. 2 hours 23 minutes of talk</span></a>
-<a class="card" href="notes/mars-jyotish-vidya-ep13.html"><b>Planet Mars (Jyotish Vidya Ep. 13)</b><span>Mars as will and action, Mars by house and sign, remedies and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/sun-combinations-jyotish-vidya-ep16.html"><b>Sun and its Combinations (Jyotish Vidya Ep. 16)</b><span>The Sun paired with each planet, a case study, remedies and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/jupiter-and-remedies-jyotish-vidya-ep32.html"><b>Planet Jupiter and Remedies (Jyotish Vidya Ep. 32)</b><span>Jupiter remedies, home temple and north-east rules, marriage, money and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/moon-and-remedies-jyotish-vidya-ep23.html"><b>Planet Moon and Remedies (Jyotish Vidya Ep. 23)</b><span>Moon remedies, water and mind, marriage and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/venus-jyotish-vidya-ep18.html"><b>Planet Venus (Jyotish Vidya Ep. 18)</b><span>Venus, love and comfort, houses and signs, remedies and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/pluto-jyotish-vidya-ep20.html"><b>Planet Pluto (Jyotish Vidya Ep. 20)</b><span>Pluto and death, by sign and house, conjunctions and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/rahu-jyotish-vidya-ep26.html"><b>Planet Rahu (Jyotish Vidya Ep. 26)</b><span>Rahu as illusion and hunger, Rahu by house, dashas and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/ketu-jyotish-vidya-ep29.html"><b>Planet Ketu (Jyotish Vidya Ep. 29)</b><span>Ketu as detachment, by house and sign, eclipse beliefs and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/neptune-and-remedies-jyotish-vidya-ep25.html"><b>Neptune and Remedies (Jyotish Vidya Ep. 25)</b><span>Neptune remedies, habits, stones and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/bhaav-and-planets-jyotish-vidya-ep7.html"><b>Bhaav And Planets (Jyotish Vidya Ep. 7)</b><span>The 12 houses, body map, relationships, ancestors, donations and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/donation-and-charity-jyotish-vidya-ep9.html"><b>Donation and Charity (Jyotish Vidya Ep. 9)</b><span>What to give, to whom and when, planet by planet, with video timestamps.</span></a>
-<a class="card" href="notes/love-and-marriage-jyotish-vidya-ep10.html"><b>Love and Marriage (Jyotish Vidya Ep. 10)</b><span>The 7th house, partners, delays and remedies, with video timestamps.</span></a>
-<a class="card" href="notes/understanding-astrology-jyotish-vidya-ep1.html"><b>Understanding Astrology (Jyotish Vidya Ep. 1)</b><span>Fate and prarabdha, asking big, planets in the body, twelve signs, Neptune and Vastu zones, with video timestamps.</span></a>
-<a class="card" href="notes/understanding-astrology-planets-jyotish-vidya-ep2.html"><b>Understanding Astrology: Planets (Jyotish Vidya Ep. 2)</b><span>Belief and body-mind sync, degrees and houses, food and planets, the ishta deity and the planets as one household, with video timestamps.</span></a>
-<a class="card" href="notes/retrograde-planets-jyotish-vidya-ep3.html"><b>Retrograde Planets (Jyotish Vidya Ep. 3)</b><span>Why remedies cost a sacrifice, sign natures and timing, the planets as a family, the host rule, Venus, Ketu, Jupiter, cord cutting and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/saturn-and-remedies-jyotish-vidya-ep12.html"><b>Planet Saturn (Jyotish Vidya Ep. 12)</b><span>Luck and the dark areas, remedies, the Saturn stone, sade sati and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/uranus-jyotish-vidya-ep17.html"><b>Planet Uranus, Indra (Jyotish Vidya Ep. 17)</b><span>The navel portal, Uranus in each sign, remedies, stones and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/pluto-and-remedies-jyotish-vidya-ep21.html"><b>Planet Pluto and its Remedies (Jyotish Vidya Ep. 21)</b><span>Letting go, Pluto by sign and house, folk remedies and conjunctions, with video timestamps.</span></a>
-<a class="card" href="notes/moon-jyotish-vidya-ep22.html"><b>Planet Moon (Jyotish Vidya Ep. 22)</b><span>The water element, the Moon by house and sign, remedies and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/neptune-jyotish-vidya-ep24.html"><b>Neptune, Varuna, and Grace (Jyotish Vidya Ep. 24)</b><span>Grace, intuition, houses 1 to 12, signs, puja and Q&A, with video timestamps.</span></a>
-<a class="card" href="notes/jupiter-jyotish-vidya-ep31.html"><b>Planet Jupiter (Jyotish Vidya Ep. 31)</b><span>The guru, ego and greed, the belly, home temple and north-east rules, aspects and stone cautions, with video timestamps.</span></a>
-<a class="card" href="notes/venus-and-remedies-jyotish-vidya-ep19.html"><b>Venus and Its Remedies (Jyotish Vidya Ep. 19)</b><span>Venus in every sign, with other planets, the body, marriage, white topaz and remedies, with video timestamps. 2 hours 29 minutes of talk</span></a>
-<a class="card" href="notes/ketu-and-remedies-jyotish-vidya-ep30.html"><b>Ketu and Its Remedies (Jyotish Vidya Ep. 30)</b><span>Ketu in every sign, element and house, cat's eye, piercing, vastu and remedies, with video timestamps. 2 hours 23 minutes of talk</span></a>
-<a class="card" href="notes/ahankar-ka-gorakh-dhandha.html"><b>Ahankar ka Gorakh Dhandha</b><span>Timestamped sections, diagrams and tables, about 1 hour 5 minutes of talk</span></a>
-<a class="card" href="notes/ishta-devata-and-retrograde-planets-jyotish-vidya-ep4.html"><b>Ishta Devata and Retrograde Planets (Jyotish Vidya Ep. 4)</b><span>The karma story that opens the class, becoming your own Ishta, the sign-to-deity table, Mars and marriage, Sun and kidney stones, and a preview of retrograde Mercury and Jupiter, with video timestamps.</span></a>
-<a class="card" href="notes/planets-and-rashi-jyotish-vidya-ep8-pt1.html"><b>Planets and Rashi, Part 1 (Jyotish Vidya Ep. 8)</b><span>How houses and signs differ, how fast each planet moves, the Sun, Moon and Mars through the twelve signs, donation rules and gemstone caution, with video timestamps.</span></a>
-<a class="card" href="notes/planets-and-rashi-jyotish-vidya-ep8-pt2.html"><b>Planets and Rashi, Part 2 (Jyotish Vidya Ep. 8)</b><span>Jupiter, Venus, Saturn, Rahu, Ketu and the outer planets sign by sign, neech bhang raj yog, and concrete remedies, with video timestamps.</span></a>
-<a class="card" href="notes/jyotish-foundations-2015.html"><b>Jyotish: What Astrology Actually Is</b><span>What astrology actually is, the third eye, karma versus destiny, the Bhrigu Samhita, planet by planet effects, and daan, dua and dava, with video timestamps.</span></a>
+<div class="controls">
+<button id="sortToggle" type="button" aria-pressed="false">Newest first</button>
+</div>
+<div id="cards">
+<a class="card" data-added="2026-10-10" href="notes/rahu-and-remedies-jyotish-vidya-ep27.html"><b>Rahu and Its Remedies (Jyotish Vidya Ep. 27)</b><span>Rahu in every house and with every planet, problems, causes and remedies, with video timestamps. 2 hours 24 minutes of talk</span></a>
+<a class="card" data-added="2026-10-10" href="notes/rahu-and-ketu-jyotish-vidya-ep28.html"><b>Rahu, Ketu and Balance (Jyotish Vidya Ep. 28)</b><span>Rahu and Ketu as one pair, the seesaw, planet self-checks, home vastu, Ketu in every house and remedies, with video timestamps. 2 hours 31 minutes of talk</span></a>
+<a class="card" data-added="2026-10-10" href="notes/mercury-and-remedies-jyotish-vidya-ep14.html"><b>Mercury and Remedies (Jyotish Vidya Ep. 14)</b><span>Mercury as the child mind, signs and houses, the ear and mantra, emerald, donations, the cash rule and a full remedy sheet, with video timestamps. 2 hours 15 minutes of talk</span></a>
+<a class="card" data-added="2026-10-10" href="notes/sun-and-remedies-jyotish-vidya-ep15.html"><b>Sun and Remedies (Jyotish Vidya Ep. 15)</b><span>The Sun as soul and aura, heartbreak and house results, the Sun by sign and house, wheat, salt and cow remedies, ruby and the dawn water offering, with video timestamps. 2 hours 23 minutes of talk</span></a>
+<a class="card" data-added="2026-10-10" href="notes/mars-jyotish-vidya-ep13.html"><b>Planet Mars (Jyotish Vidya Ep. 13)</b><span>Mars as will and action, Mars by house and sign, remedies and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/sun-combinations-jyotish-vidya-ep16.html"><b>Sun and its Combinations (Jyotish Vidya Ep. 16)</b><span>The Sun paired with each planet, a case study, remedies and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/jupiter-and-remedies-jyotish-vidya-ep32.html"><b>Planet Jupiter and Remedies (Jyotish Vidya Ep. 32)</b><span>Jupiter remedies, home temple and north-east rules, marriage, money and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/moon-and-remedies-jyotish-vidya-ep23.html"><b>Planet Moon and Remedies (Jyotish Vidya Ep. 23)</b><span>Moon remedies, water and mind, marriage and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/venus-jyotish-vidya-ep18.html"><b>Planet Venus (Jyotish Vidya Ep. 18)</b><span>Venus, love and comfort, houses and signs, remedies and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/pluto-jyotish-vidya-ep20.html"><b>Planet Pluto (Jyotish Vidya Ep. 20)</b><span>Pluto and death, by sign and house, conjunctions and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/rahu-jyotish-vidya-ep26.html"><b>Planet Rahu (Jyotish Vidya Ep. 26)</b><span>Rahu as illusion and hunger, Rahu by house, dashas and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/ketu-jyotish-vidya-ep29.html"><b>Planet Ketu (Jyotish Vidya Ep. 29)</b><span>Ketu as detachment, by house and sign, eclipse beliefs and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/neptune-and-remedies-jyotish-vidya-ep25.html"><b>Neptune and Remedies (Jyotish Vidya Ep. 25)</b><span>Neptune remedies, habits, stones and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/bhaav-and-planets-jyotish-vidya-ep7.html"><b>Bhaav And Planets (Jyotish Vidya Ep. 7)</b><span>The 12 houses, body map, relationships, ancestors, donations and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-11" href="notes/donation-and-charity-jyotish-vidya-ep9.html"><b>Donation and Charity (Jyotish Vidya Ep. 9)</b><span>What to give, to whom and when, planet by planet, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-11" href="notes/love-and-marriage-jyotish-vidya-ep10.html"><b>Love and Marriage (Jyotish Vidya Ep. 10)</b><span>The 7th house, partners, delays and remedies, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-11" href="notes/understanding-astrology-jyotish-vidya-ep1.html"><b>Understanding Astrology (Jyotish Vidya Ep. 1)</b><span>Fate and prarabdha, asking big, planets in the body, twelve signs, Neptune and Vastu zones, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-11" href="notes/understanding-astrology-planets-jyotish-vidya-ep2.html"><b>Understanding Astrology: Planets (Jyotish Vidya Ep. 2)</b><span>Belief and body-mind sync, degrees and houses, food and planets, the ishta deity and the planets as one household, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-11" href="notes/retrograde-planets-jyotish-vidya-ep3.html"><b>Retrograde Planets (Jyotish Vidya Ep. 3)</b><span>Why remedies cost a sacrifice, sign natures and timing, the planets as a family, the host rule, Venus, Ketu, Jupiter, cord cutting and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/saturn-and-remedies-jyotish-vidya-ep12.html"><b>Planet Saturn (Jyotish Vidya Ep. 12)</b><span>Luck and the dark areas, remedies, the Saturn stone, sade sati and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/uranus-jyotish-vidya-ep17.html"><b>Planet Uranus, Indra (Jyotish Vidya Ep. 17)</b><span>The navel portal, Uranus in each sign, remedies, stones and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/pluto-and-remedies-jyotish-vidya-ep21.html"><b>Planet Pluto and its Remedies (Jyotish Vidya Ep. 21)</b><span>Letting go, Pluto by sign and house, folk remedies and conjunctions, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/moon-jyotish-vidya-ep22.html"><b>Planet Moon (Jyotish Vidya Ep. 22)</b><span>The water element, the Moon by house and sign, remedies and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/neptune-jyotish-vidya-ep24.html"><b>Neptune, Varuna, and Grace (Jyotish Vidya Ep. 24)</b><span>Grace, intuition, houses 1 to 12, signs, puja and Q&A, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/jupiter-jyotish-vidya-ep31.html"><b>Planet Jupiter (Jyotish Vidya Ep. 31)</b><span>The guru, ego and greed, the belly, home temple and north-east rules, aspects and stone cautions, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-10" href="notes/venus-and-remedies-jyotish-vidya-ep19.html"><b>Venus and Its Remedies (Jyotish Vidya Ep. 19)</b><span>Venus in every sign, with other planets, the body, marriage, white topaz and remedies, with video timestamps. 2 hours 29 minutes of talk</span></a>
+<a class="card" data-added="2026-10-10" href="notes/ketu-and-remedies-jyotish-vidya-ep30.html"><b>Ketu and Its Remedies (Jyotish Vidya Ep. 30)</b><span>Ketu in every sign, element and house, cat's eye, piercing, vastu and remedies, with video timestamps. 2 hours 23 minutes of talk</span></a>
+<a class="card" data-added="2026-10-07" href="notes/ahankar-ka-gorakh-dhandha.html"><b>Ahankar ka Gorakh Dhandha</b><span>Timestamped sections, diagrams and tables, about 1 hour 5 minutes of talk</span></a>
+<a class="card" data-added="2026-10-16" href="notes/ishta-devata-and-retrograde-planets-jyotish-vidya-ep4.html"><b>Ishta Devata and Retrograde Planets (Jyotish Vidya Ep. 4)<span class="badge">NEW</span></b><span>The karma story that opens the class, becoming your own Ishta, the sign-to-deity table, Mars and marriage, Sun and kidney stones, and a preview of retrograde Mercury and Jupiter, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-16" href="notes/planets-and-rashi-jyotish-vidya-ep8-pt1.html"><b>Planets and Rashi, Part 1 (Jyotish Vidya Ep. 8)<span class="badge">NEW</span></b><span>How houses and signs differ, how fast each planet moves, the Sun, Moon and Mars through the twelve signs, donation rules and gemstone caution, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-16" href="notes/planets-and-rashi-jyotish-vidya-ep8-pt2.html"><b>Planets and Rashi, Part 2 (Jyotish Vidya Ep. 8)<span class="badge">NEW</span></b><span>Jupiter, Venus, Saturn, Rahu, Ketu and the outer planets sign by sign, neech bhang raj yog, and concrete remedies, with video timestamps.</span></a>
+<a class="card" data-added="2026-10-16" href="notes/jyotish-foundations-2015.html"><b>Jyotish: What Astrology Actually Is<span class="badge">NEW</span></b><span>What astrology actually is, the third eye, karma versus destiny, the Bhrigu Samhita, planet by planet effects, and daan, dua and dava, with video timestamps.</span></a>
+</div>
 <a class="card" href="https://github.com/CodersAcademy006/astro-notes"><b>All transcripts</b><span>469 videos on GitHub</span></a>
 </main>
+<script>
+(function(){
+var btn=document.getElementById("sortToggle");
+var list=document.getElementById("cards");
+var original=Array.from(list.children);
+btn.addEventListener("click",function(){
+var newest=btn.getAttribute("aria-pressed")!=="true";
+btn.setAttribute("aria-pressed",String(newest));
+var cards=newest?original.slice().sort(function(a,b){return b.dataset.added.localeCompare(a.dataset.added)}):original;
+cards.forEach(function(c){list.appendChild(c)});
+});
+})();
+</script>
 </body>
 </html>

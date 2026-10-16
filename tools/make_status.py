@@ -3,7 +3,7 @@ import csv, glob, os, re
 root = os.path.join(os.path.dirname(__file__), "..")
 pages = {}
 for p in glob.glob(os.path.join(root, "docs/notes/*-jyotish-vidya-ep*.html")):
-    pages.setdefault(int(re.search(r"-ep(\d+)\.html$", p).group(1)), []).append(os.path.relpath(p, root))
+    pages.setdefault(int(re.search(r"-ep(\d+)(?:-pt\d+)?\.html$", p).group(1)), []).append(os.path.relpath(p, root))
 rows = []
 for f in sorted(os.listdir(os.path.join(root, "transcripts"))):
     m = re.match(r"Jyotish Vidya - Ep\. (\d+)(?: \(Part-(\d)\))?", f)
