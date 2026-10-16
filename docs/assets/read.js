@@ -20,7 +20,10 @@ style.textContent=
 '.pageSearch input[type=search]{font:inherit;font-size:.9rem;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:7px 12px;flex:1;min-width:0}'+
 '.pageSearch .status{color:var(--mute);font-size:.8rem;white-space:nowrap}'+
 'mark.hit{background:color-mix(in srgb,var(--accent) 25%,transparent);color:inherit;border-radius:3px;padding:0 1px}'+
-'mark.hit.current{background:var(--accent);color:#fff}';
+'mark.hit.current{background:var(--accent);color:#fff}'+
+'.barLeft{display:flex;align-items:center;gap:12px;min-width:0;flex:1 1 auto}'+
+'.barRight{display:flex;align-items:center;gap:12px;flex:0 0 auto}'+
+'.backLink{flex-shrink:0}';
 document.head.appendChild(style);
 
 function setupPageSearch(main){
@@ -122,9 +125,13 @@ if(cards){
     list.forEach(function(a){a.style.display=!q||a.textContent.toLowerCase().indexOf(q)>-1?'':'none'});
   });
 } else {
-  // note page: single read toggle, key derived from the page's own filename
-  var host=document.querySelector('.bar > div')||document.querySelector('main');
+  // note page: back-to-list link + read toggle, key derived from the page's own filename
+  var bar=document.querySelector('.bar > div');
+  var host=bar||document.querySelector('main');
   if(host){
+    var back=document.createElement('a');
+    back.className='backLink';back.href='../index.html';back.textContent='← All notes';
+
     var k='notes/'+location.pathname.split('/').pop();
     var read=readSet();
     var btn=document.createElement('button');
@@ -138,7 +145,19 @@ if(cards){
       if(read.has(k))read.delete(k);else read.add(k);
       writeSet(read);paint();
     });
-    if(host.tagName==='MAIN')host.insertBefore(btn,host.firstChild);else host.appendChild(btn);
+
+    if(bar){
+      var title=bar.querySelector('b'),watchLink=bar.querySelector('a');
+      var left=document.createElement('span');left.className='barLeft';
+      left.appendChild(back);if(title)left.appendChild(title);
+      var right=document.createElement('span');right.className='barRight';
+      if(watchLink)right.appendChild(watchLink);right.appendChild(btn);
+      bar.textContent='';bar.appendChild(left);bar.appendChild(right);
+    } else {
+      var wrap=document.createElement('div');wrap.className='barLeft';wrap.style.margin='0 0 20px';
+      wrap.appendChild(back);wrap.appendChild(btn);
+      host.insertBefore(wrap,host.firstChild);
+    }
     paint();
   }
   var main=document.querySelector('main');
