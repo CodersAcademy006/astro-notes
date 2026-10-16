@@ -76,6 +76,12 @@ Point-wise study notes are being written video by video. Live so far:
   (what a retrograde planet actually is, why he says to fit its gemstone, leftover-food vibration, spouse gift rules, planet maturity ages, with video timestamps)
 - [Gemstones and Puja: Finding Your Real Ishta Devta](https://codersacademy006.github.io/astro-notes/notes/gemstone-and-pooja-paath.html)
   (Bhagwan versus Ishwar versus Ishta versus Guru, the planetary family, manifestation, how a gemstone is chosen and judged for quality, with video timestamps)
+- [Planet Mercury, ASAP Ep. 5](https://codersacademy006.github.io/astro-notes/notes/mercury-asap-ep5.html)
+  (Mercury as the neuter planet of speech and trade, its mythology, its link to Venus and Rahu, and its remedies, with video timestamps)
+- [Studies and Students, and Remembering Vaastu Devtas, Jyotish Vidya Ep. 11](https://codersacademy006.github.io/astro-notes/notes/studies-and-vaastu-devtas-jyotish-vidya-ep11.html)
+  (why a bright child's marks can fall, why not to punish a struggling child, exam-day colour and thread remedies, a sketch of the vastu deities, with video timestamps)
+- [Planet Sun, ASAP Ep. 2](https://codersacademy006.github.io/astro-notes/notes/sun-asap-ep2.html)
+  (the Sun as the astral body's source, a full body-map of the planets, the Sun through all twelve signs, personal protective deities and ritual as a kind of hypnosis, with video timestamps)
 
 ## Transcript format
 
