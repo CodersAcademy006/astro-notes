@@ -62,6 +62,20 @@ Point-wise study notes are being written video by video. Live so far:
   (Jupiter, Venus, Saturn, Rahu, Ketu and the outer planets sign by sign, neech bhang raj yog, remedies, with video timestamps)
 - [Jyotish: What Astrology Actually Is](https://codersacademy006.github.io/astro-notes/notes/jyotish-foundations-2015.html)
   (2015 talk: what astrology actually is, the third eye, karma versus destiny, the Bhrigu Samhita, planet by planet effects, daan, dua and dava, with video timestamps)
+- [Rashi and the Behaviour of Planets, Jyotish Vidya Ep. 6](https://codersacademy006.github.io/astro-notes/notes/rashi-and-behaviour-of-planets-jyotish-vidya-ep6.html)
+  (parts 1 and 2: how each planet behaves by element, sign and house, from the Sun to the outer planets, with two worked charts, with video timestamps)
+- [Ishta Devata and Prayer](https://codersacademy006.github.io/astro-notes/notes/ishta-devata-and-prayer.html)
+  (the birth chart as a blood report, bargaining with priests and fate, the ninth house and its ishta readings, pitru dosh, and what a mannat actually is, with video timestamps)
+- [Consciousness vs Kundli, ASAP Ep. 1](https://codersacademy006.github.io/astro-notes/notes/consciousness-vs-kundli-asap-ep1.html)
+  (the opening talk of a new series: how consciousness, not just remedies, changes the way each planet's dosha plays out, with video timestamps)
+- [Ganpati and Ketu](https://codersacademy006.github.io/astro-notes/notes/ganpati-and-ketu.html)
+  (why Ganesh comes first, the birth story read as a lesson about doubt, Rahu and Ketu as shadow grahas, the astronomy behind Ganesh Chaturthi and eclipses, with video timestamps)
+- [Hanuman Chalisa: An Astronomical Viewpoint](https://codersacademy006.github.io/astro-notes/notes/hanuman-chalisa-astronomical-viewpoint.html)
+  (the navel as Hanuman's seat, chakras mapped to the zodiac, Mars exalted in Capricorn, the Ramayana as an inner allegory, mangal dosha remedies, with video timestamps)
+- [Retrograde Planets and Gemstones, Jyotish Vidya Ep. 5](https://codersacademy006.github.io/astro-notes/notes/retrograde-planets-and-gemstones-jyotish-vidya-ep5.html)
+  (what a retrograde planet actually is, why he says to fit its gemstone, leftover-food vibration, spouse gift rules, planet maturity ages, with video timestamps)
+- [Gemstones and Puja: Finding Your Real Ishta Devta](https://codersacademy006.github.io/astro-notes/notes/gemstone-and-pooja-paath.html)
+  (Bhagwan versus Ishwar versus Ishta versus Guru, the planetary family, manifestation, how a gemstone is chosen and judged for quality, with video timestamps)
 
 ## Transcript format
 
