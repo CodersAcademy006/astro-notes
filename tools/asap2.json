@@ -1,0 +1,62 @@
+{
+ "vid": "MCX9ftn2vO4",
+ "title": "The Sun",
+ "len": "126",
+ "sub": "Complete notes on ASAP Ep. 2 by Brajesh Gautam, The Anchor Of Life. The Sun as the astral body's source, a full body-map of the planets, the Sun through all twelve signs, personal protective deities, and ritual as a kind of hypnosis.",
+ "desc": "Complete notes on ASAP Ep. 2, The Sun by Brajesh Gautam: the astral body, the Sun through every sign, Ishta (personal protective deity), why ritual works, and a worked chart example, with video timestamps.",
+ "sections_dir": "asap2_sections",
+ "diagrams_module": "asap2_diagrams.py",
+ "out": "../docs/notes/sun-asap-ep2.html",
+ "points": [
+  [
+   "The astral body comes first.",
+   "Diet and timing matter far less than whether your inner energy body is settled."
+  ],
+  [
+   "Every organ maps to a planet.",
+   "Skull, eyes, liver, navel and spine each belong to one of the nine (plus outer) grahas."
+  ],
+  [
+   "The Sun changes character in every sign.",
+   "A king visiting a friendly house rules well; visiting a hostile one, it gets drained or destructive."
+  ],
+  [
+   "You may already have a protective deity (Ishta).",
+   "It runs automatically; the only real task is avoiding the opposing one's domain."
+  ],
+  [
+   "Ritual is one way to flip a cosmic switch.",
+   "Some paths are direct, some are long; neither route is more spiritually advanced."
+  ],
+  [
+   "Respect for elders strengthens the Sun.",
+   "Touching their feet, even through private resentment, reshapes a person's own habits over time."
+  ],
+  [
+   "Even saints' bodies can fail.",
+   "A high energy state does not guarantee bodily ease; the speaker argues for a middle path over either extreme."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"lead\"><p>He lays out a head-to-foot map",
+   "body"
+  ],
+  [
+   "<div class=\"card why\"><h4>His asteroid-belt story</h4>",
+   "friend"
+  ],
+  [
+   "<h2>5. The Sun through the signs, part two: houses 7 to 12 {{t:00:33:56}}</h2>",
+   "houses"
+  ],
+  [
+   "<div class=\"card prob\"><h4>The claim</h4><p>Everyone is born with both a protective energy",
+   "ishta"
+  ],
+  [
+   "<li><b>The \"flip the switch\" analogy.</b>",
+   "switch"
+  ]
+ ]
+}
