@@ -1,0 +1,62 @@
+{
+ "vid": "czrROae2_DA",
+ "title": "Mars",
+ "len": "147",
+ "sub": "Complete notes on ASAP Ep. 4 by Brajesh Gautam, The Anchor Of Life. Mars as the navel's fire, manifestation through fixed intention, vastu and the south-east direction, ease versus stubbornness, manglik dosha, and Mars house by house, with video timestamps.",
+ "desc": "Complete notes on ASAP Ep. 4, Mars by Brajesh Gautam: the navel, manifestation, vastu directions, manglik dosha, and Mars by house, with video timestamps.",
+ "sections_dir": "asap4_sections",
+ "diagrams_module": "asap4_diagrams.py",
+ "out": "../docs/notes/mars-asap-ep4.html",
+ "points": [
+  [
+   "Mars governs the navel, the body's digestive fire.",
+   "A sound navel is said to process anything, physically and emotionally, with total neutrality."
+  ],
+  [
+   "Manifestation needs a fixed intention, not just a wish.",
+   "Where the Moon keeps changing the target, Mars is what holds one goal steady long enough to work."
+  ],
+  [
+   "Everyday Mars-dosha signs are concrete, not abstract.",
+   "Broken electronics, rusted iron, small repeated cuts and burns are his listed warning signs."
+  ],
+  [
+   "Ease beats stubbornness, whatever the chart underneath.",
+   "Forcing a marriage, a purchase or a child's study schedule is said to turn Mars negative regardless of placement."
+  ],
+  [
+   "Manglik dosha has a specific exception worth checking.",
+   "If Saturn also sits in one of the five manglik houses, he says the dosha is cancelled."
+  ],
+  [
+   "A 4th-house Mars can mean ruin or sudden wealth.",
+   "The same debilitated placement, with strong Sun and Moon support, can instead build exceptional fortune."
+  ],
+  [
+   "The main fixes are thread colour, direction, and anonymous giving.",
+   "Red for Mars, blue for Rahu, purple for both, plus bricks, sweets, and quiet charity depending on the house."
+  ]
+ ],
+ "puts": [
+  [
+   "<div class=\"lead\"><p>The speaker opens by placing Mars at the navel",
+   "navel"
+  ],
+  [
+   "<li><b>The asteroid-belt defence story.</b>",
+   "shield"
+  ],
+  [
+   "<div class=\"lead\"><p>Returning to a theme from earlier episodes, the speaker explains manifestation through Mars specifically",
+   "pipe"
+  ],
+  [
+   "<div class=\"card prob\"><h4>His central claim</h4>",
+   "switch"
+  ],
+  [
+   "<div class=\"card prob\"><h4>The claim</h4><p>Mars sitting in the 1st, 4th, 7th, 8th or 12th house",
+   "manglik"
+  ]
+ ]
+}
